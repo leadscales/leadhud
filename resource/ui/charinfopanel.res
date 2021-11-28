@@ -42,8 +42,8 @@
 		"tall"				"120"
 		"visible"			"1"
 		"enabled"			"1"
-		"image"				"loadout_header"
-		"tileImage"			"1"
+		"image"				"replay/thumbnails/misc/loadout_header"
+		"scaleImage"		"1"
 	}
 	"BackgroundHeader2"
 	{
@@ -56,8 +56,8 @@
 		"tall"				"120"
 		"visible"			"1"
 		"enabled"			"1"
-		"fillcolor"			"27 27 27 200"
-		"tileImage"			"1"
+		"image"				"replay/thumbnails/misc/loadout_header"
+		"scaleImage"		"1"
 	}
 
 	"BackgroundFooter"
@@ -71,8 +71,8 @@
 		"tall"				"60"
 		"visible"			"1"
 		"enabled"			"1"
-		"image"				"loadout_header"
-		"tileImage"			"1"
+		"image"				"replay/thumbnails/misc/loadout_header"
+		"scaleImage"		"1"
 	}
 	"BackgroundFooter2"
 	{
@@ -85,8 +85,8 @@
 		"tall"				"60"
 		"visible"			"1"
 		"enabled"			"1"
-		"fillcolor"			"27 27 27 200"
-		"tileImage"			"1"
+		"image"				"replay/thumbnails/misc/loadout_header"
+		"scaleImage"		"1"
 	}
 
 	"FooterLine"
@@ -143,10 +143,10 @@
 	{
 		"ControlName"		"CExButton"
 		"fieldName"			"BackButton"
-		"xpos"				"c-288"
-		"ypos"				"437"
+		"xpos"				"0"
+		"ypos"				"r20"
 		"zpos"				"2"
-		"wide"				"100"
+		"wide"				"f0"
 		"tall"				"20"
 		"autoResize"		"0"
 		"pinCorner"			"3"
@@ -160,6 +160,10 @@
 		"brighttext"		"0"
 		"default"			"0"
 		"Command"			"back"
+		"armedBgColor_override"		"ColorNegative"
+		"armedFgColor_override"		"GuiTextColorDarkest"
+		"defaultFgColor_override" 	"GuiTextColorLight"
+		"defaultBgColor_override" 	"GuiColorLight"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

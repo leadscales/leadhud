@@ -1,0 +1,10 @@
+"Refract"
+{
+	"$refractamount" "0.001"
+	"$refracttint" "{160 160 160}"
+	"$refractblur" "0"
+	"$bluramount" "1"
+
+	"$scale" "[1 1]"
+	"$normalmap" "vgui/replay/thumbnails/misc/class_model_panel"
+}

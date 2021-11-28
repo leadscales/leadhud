@@ -1,5 +1,65 @@
 "Resource/UI/MainMenuOverride.res"
 {
+	"CPIconWhite"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CPIconWhite"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_white" 
+	}
+
+	"CPCapMask"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CPCapMask"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_cap_mask"
+	}
+
+	"CPIconBluCap"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CPIconBluCap"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_cap_blu"
+	}
+
+	"CPIconRedCap"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CPIconBluCap"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_cap_red"
+	}
+
+	"CPIconBluCapUp"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CPIconBluCapUp"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_cap_blu_up"
+	}
+
+	"CPIconRedCapUp"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CPIconRedCapUp"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_cap_red_up"
+	}
+
 	"CPIconBlu"
 	{
 		"ControlName"	"ImagePanel"
@@ -522,5 +582,104 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/cart_track_red_opaque"
+	}
+	"CaptureDropped"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureDropped"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_ico_flag_dropped"
+	}
+	"CaptureHome"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureHome"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_ico_flag_home"
+	}
+	"CaptureHomeAlt"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureHomeAlt"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_ico_flag_home_alt"
+	}
+	"CaptureMoving"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureMoving"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_ico_flag_moving"
+	}
+	"CaptureMovingAlt"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureMovingAlt"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_ico_flag_moving_alt"
+	}
+	"CaptureArrowRed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureArrowRed"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_red"
+	}
+	"CaptureArrowBLue"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureArrowBlue"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_blue"
+	}
+	"CaptureArrowGrey"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureArrowGrey"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_grey"
+	}
+	"CaptureArrowGreyRed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureArrowGreyRed"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_grey_with_red"
+	}
+	"CaptureArrowRedNone"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureArrowRedNone"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_red_noarrow"
+	}
+	"CaptureArrowBlueNone"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CaptureArrowBlueNone"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/objectives_flagpanel_compass_blue_noarrow"
 	}
 }

@@ -189,6 +189,18 @@ Scheme
 				}
 			}
 		}
+		
+		RefractiveBorder
+		{
+			"bordertype"		"scalable_image"
+			"backgroundtype"	"0"
+			"color" 			"GuiTransparentLighter"
+			"image"				"replay/thumbnails/generic_refractive"
+			"src_corner_height"		"0"				// pixels inside the image
+			"src_corner_width"		"0"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height"	"0"
+		}
 
 		DarkBlueTeamBorder
 		{
@@ -375,19 +387,19 @@ Scheme
 		ButtonBorder
 		{
 			"inset" "0 0 0 0"
-			"backgroundtype" "2"
+			"backgroundtype" "0"
 		}
 
 		ButtonKeyFocusBorder
 		{
 			"inset" "0 0 0 0"
-			"backgroundtype" "2"
+			"backgroundtype" "0"
 		}
 
 		ButtonDepressedBorder
 		{
 			"inset" "0 0 0 0"
-			"backgroundtype" "2"
+			"backgroundtype" "0"
 		}
 
 		ComboBoxBorder
@@ -526,7 +538,7 @@ Scheme
 		{
 			"bordertype"			"image"
 			"backgroundtype"		"2"
-			"image"					"loadout_header"
+			"image"					"replay/thumbnails/misc/loadout_header"
 			"tiled"					"1"
 		}
 
@@ -727,7 +739,7 @@ Scheme
 		GrayDialogBorder
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			"image"					"loadout_rect"
 			"src_corner_height"		"24"			// pixels inside the image
 			"src_corner_width"		"24"
@@ -8240,7 +8252,7 @@ Scheme
 		MainMenuBGBorder
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			"image"					"replay/thumbnails/mmbg"
 			"src_corner_height"		"32"			// pixels inside the image
 			"src_corner_width"		"32"
@@ -8250,7 +8262,7 @@ Scheme
 		MainMenuBGBorderAlpha
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			"image"					"button_holder_central_alpha"
 			"src_corner_height"		"32"			// pixels inside the image
 			"src_corner_width"		"32"
@@ -8260,7 +8272,7 @@ Scheme
 		MainMenuBlogTabBG
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			"image"					"blog_tabby"
 			"src_corner_height"		"32"			// pixels inside the image
 			"src_corner_width"		"32"
@@ -8270,7 +8282,7 @@ Scheme
 		MainMenuHighlightBorder
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			"image"					"callout_bubble"
 			"src_corner_height"		"32"			// pixels inside the image
 			"src_corner_width"		"32"
@@ -8551,7 +8563,7 @@ Scheme
 		ReplayThinLineBorder
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			"image"					"../hud/tournament_panel_brown"
 			//"image"				"../hud/color_panel_browner"
 			"src_corner_height"		"23"			// pixels inside the image
@@ -8562,7 +8574,7 @@ Scheme
 		ReplayDefaultBorder
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			"image"					"replay/panel_scalable_default"
 			"src_corner_height"		"23"			// pixels inside the image
 			"src_corner_width"		"23"
@@ -8572,7 +8584,7 @@ Scheme
 		ReplayHighlightBorder
 		{
 			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
+			"backgroundtype"		"0"
 			"image"					"replay/panel_scalable_highlight"
 			"src_corner_height"		"23"			// pixels inside the image
 			"src_corner_width"		"23"

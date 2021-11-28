@@ -100,6 +100,16 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"FontStreamerMode"
+		{
+			"1"
+			{
+				"name"			"Streamer Mode Regular"
+				"tall"			"6"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 	}
 	
 	CustomFontFiles
@@ -108,6 +118,11 @@ Scheme
 		{
 			"font"	"resource/fonts/TF2Icons.ttf"
 			"name"	"TF2Icons"
+		}
+		"122"
+		{
+			"font"	"resource/fonts/StreamerMode.ttf"
+			"name"	"Streamer Mode Regular"
 		}
 	}
 }

@@ -8,9 +8,9 @@
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"TargetHealth"
 		"NegativeColor"			"TargetDamage"
-		"delta_lifetime"		"2"
-		"delta_item_font"		"FontBold20Outline"
-		"delta_item_font_big"	"FontBold20Outline"
+		"delta_lifetime"		"1.0"
+		"delta_item_font"		"FontBold20"
+		"delta_item_font_big"	"FontBold20"
 	}
 
 	"DamageAccountValue"

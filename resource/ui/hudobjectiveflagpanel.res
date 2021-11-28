@@ -27,8 +27,8 @@
 		"zpos"			"2"
 		"wide"			"40"
 		"tall"			"22"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"Blue"
 
 		"if_hybrid"
@@ -56,8 +56,8 @@
 		"zpos"			"1"
 		"wide"			"40"
 		"tall"			"21"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"DarkBlue"
 
 		"if_hybrid"
@@ -85,8 +85,8 @@
 		"zpos"			"2"
 		"wide"			"40"
 		"tall"			"22"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"Red"
 
 		"if_hybrid"
@@ -114,8 +114,8 @@
 		"zpos"			"1"
 		"wide"			"40"
 		"tall"			"23"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"DarkRed"
 
 		"if_hybrid"
@@ -145,17 +145,17 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScore"
-		"xpos"			"c-80"
+		"xpos"			"cs-0.52"
 		"ypos"			"r30"
 		"zpos"			"8"
-		"wide"			"75"
+		"wide"			"f0"
 		"tall"			"35"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"east"
+		"textAlignment"	"center"
 		"labelText"		"%bluescore%"
 		"font"			"FontBold22"
-		"fgcolor"		"White"
+		"fgcolor"		"TeamColorBlue"
 
 		"if_hybrid"
 		{
@@ -179,11 +179,11 @@
 		"xpos"			"-2"
 		"ypos"			"-2"
 		"zpos"			"7"
-		"wide"			"75"
+		"wide"			"f0"
 		"tall"			"35"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"east"
+		"textAlignment"	"center"
 		"labelText"		"%bluescore%"
 		"font"			"FontBold22"
 		"fgcolor"		"ShadowBlack"
@@ -209,17 +209,17 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedScore"
-		"xpos"			"c5"
+		"xpos"			"cs-0.48"
 		"ypos"			"r30"
 		"zpos"			"8"
-		"wide"			"75"
+		"wide"			"f0"
 		"tall"			"35"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"west"
+		"textAlignment"	"center"
 		"labelText"		"%redscore%"
 		"font"			"FontBold22"
-		"fgcolor"		"White"
+		"fgcolor"		"TeamColorRed"
 
 		"if_hybrid"
 		{
@@ -244,11 +244,11 @@
 		"xpos"			"-2"
 		"ypos"			"-2"
 		"zpos"			"7"
-		"wide"			"75"
+		"wide"			"f0"
 		"tall"			"35"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"west"
+		"textAlignment"	"center"
 		"labelText"		"%redscore%"
 		"font"			"FontBold22"
 		"fgcolor"		"ShadowBlack"
@@ -309,10 +309,10 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayingTo"
-		"xpos"			"c-40"
+		"xpos"			"cs-0.5"
 		"ypos"			"r38"
 		"zpos"			"1"
-		"wide"			"80"
+		"wide"			"f0"
 		"tall"			"14"
 		"visible"		"1"
 		"enabled"		"1"
@@ -339,17 +339,52 @@
 		}
 	}
 
+	"PlayingToShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayingToShadow"
+		"xpos"			"-1"
+		"ypos"			"-1"
+		"zpos"			"1"
+		"wide"			"f0"
+		"tall"			"14"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#TF_PlayingTo"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"FontRegular12"
+		"fgcolor"		"ShadowBlack"
+		"pin_to_sibling"	"PlayingTo"
+
+		"if_hybrid"
+		{
+			"visible"	"0"
+		}
+
+		"if_mvm"
+		{
+			"visible"	"0"
+		}
+
+		"if_specialdelivery"
+		{
+			"visible"	"0"
+		}
+	}
+
 	"PlayingToBG"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayingToBG"
-		"xpos"			"c-40"
-		"ypos"			"r38"
+		"xpos"			"99990"
+		"ypos"			"9999"
 		"zpos"			"0"
 		"wide"			"80"
 		"tall"			"40"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"bgcolor_override"	"HudBlack"
 		"PaintBackgroundType"	"2"
 
@@ -373,8 +408,8 @@
 	{
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"BlueFlag"
-		"xpos"			"c-140"
-		"ypos"			"r67"
+		"xpos"			"c-170"
+		"ypos"			"r80"
 		"zpos"			"5"
 		"wide"			"160"
 		"tall"			"90"
@@ -412,8 +447,8 @@
 	{
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"RedFlag"
-		"xpos"			"c-20"
-		"ypos"			"r67"
+		"xpos"			"c8"
+		"ypos"			"r80"
 		"zpos"			"5"
 		"wide"			"160"
 		"tall"			"90"

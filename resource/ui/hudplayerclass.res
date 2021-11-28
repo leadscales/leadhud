@@ -57,9 +57,24 @@
 
 	"classmodelpanelBG"
 	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"classmodelpanelBG"
-		"xpos"			"9999"
+		"ControlName"		"CTFImagePanel"
+		"fieldName"			"classmodelpanelBG"
+		"xpos"				"-2"		[$WIN32]
+		"xpos_minmode"		"-2"		[$WIN32]
+		"ypos"				"r15"	[$WIN32]
+		"ypos_minmode"		"r15"	[$WIN32]
+		"xpos"				"41"	[$X360]
+		"ypos"				"r82"	[$X360]
+		"zpos"				"1"		
+		"wide"				"200"
+		"tall"				"25"
+		"visible"			"1"
+		"enabled"			"1"
+		"image"				"replay/thumbnails/misc/class_model_panel"	
+		"teambg_2"			"replay/thumbnails/misc/class_model_panel"
+		"teambg_2_lodef"	"replay/thumbnails/misc/class_model_panel"
+		"teambg_3"			"replay/thumbnails/misc/class_model_panel"
+		"teambg_3_lodef"	"replay/thumbnails/misc/class_model_panel"
 	}
 
 	"classmodelpanel"
@@ -282,7 +297,7 @@
 			"ControlName"		"Label"
 			"fieldName"			"OwnerLabel"
 			"font"				"FontStoreOriginalPrice"
-			"font_minmode"		"FontIcons8"
+			"font_minmode"		"FontStreamerMode"
 			"xpos"				"5"
 			"ypos"				"14"
 			"zpos"				"0"

@@ -87,7 +87,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"			"FreezeLabelKiller"
 			"font"				"FontRegular12"
-			"font_minmode"		"FontIcons12"
+			"font_minmode"		"FontStreamerMode"
 			"xpos"				"0"
 			"ypos"				"10"
 			"zpos"				"1"

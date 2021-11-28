@@ -1,3 +1,6 @@
+// Preload stuff
+sv_pure -1
+
 // Load the base configuration
 //exec default.cfg
 r_decal_cullsize 1
@@ -18,3 +21,7 @@ sv_unlockedchapters 99
 // Apply HUD settings
 cl_hud_minmode 0
 vgui_cache_res_files 0
+
+// Streamer mode alias
+alias "disable_streamer_mode" "cl_hud_minmode 0; toggle mat_antialias 0 1; wait 500; toggle mat_antialias 0 1; hud_reloadscheme; wait 500; play ui/disable_streamer_mode.wav; echo Streamer mode disabled."
+alias "enable_streamer_mode" "cl_hud_minmode 1; toggle mat_antialias 0 1; wait 500; toggle mat_antialias 0 1; hud_reloadscheme; wait 500; play ui/enable_streamer_mode.wav; echo Streamer mode enabled."

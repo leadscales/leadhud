@@ -40,8 +40,8 @@
 		"tall"			"120"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"loadout_header"
-		"tileImage"		"1"
+		"image"				"replay/thumbnails/misc/loadout_header"
+		"scaleImage"		"1"
 	}
 
 	"BackgroundHeader2"
@@ -55,8 +55,8 @@
 		"tall"			"120"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"27 27 27 200"
-		"tileImage"		"1"
+		"image"				"replay/thumbnails/misc/loadout_header"
+		"scaleImage"		"1"
 	}
 
 	"BackgroundFooter"
@@ -70,8 +70,8 @@
 		"tall"			"60"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"loadout_header"
-		"tileImage"		"1"
+		"image"				"replay/thumbnails/misc/loadout_header"
+		"scaleImage"		"1"
 	}
 	"BackgroundFooter2"
 	{
@@ -84,8 +84,8 @@
 		"tall"			"60"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"27 27 27 200"
-		"tileImage"		"1"
+		"image"				"replay/thumbnails/misc/loadout_header"
+		"scaleImage"		"1"
 	}
 
 	"FooterLine"

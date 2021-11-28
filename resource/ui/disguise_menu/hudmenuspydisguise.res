@@ -436,7 +436,8 @@
 		"tall"				"77"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"HudBlack"
-		"PaintBackgroundType"	"2"
+		"bgcolor_override"	"GuiTransparentDark"
+		"PaintBackgroundType"	"0"
+		"border"	"RefractiveBorder"
 	}
 }

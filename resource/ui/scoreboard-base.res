@@ -31,22 +31,22 @@
 		}
 	}
 
-	"MinmodePanelBlurer"
+	"MinmodeTextPanel"
 	{
 		"ControlName"		"EditablePanel"
-		"fieldName"			"MinmodePanelBlurer"
+		"fieldName"			"MinmodeTextPanel"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"cs-0.5"
 		"zpos"				"-5"
-		"wide"				"0"
+		"wide"				"0" 
 		"tall"				"0"
 		"wide_minmode"		"f0"
-		"tall_minmode"		"f0"
+		"tall_minmode"		"125"
 		"visible"			"1"
 		"enabled"			"1"
 		"bgcolor_override"	"GuiTransparentDark"
 		"PaintBackgroundType"	"0"
-		"border"	"RefractiveBorder"
+		"border"			"RefractiveBorder"
 	}
 
 	"MinmodeNotificationLabel"
@@ -80,9 +80,9 @@
 		"tall_minmode"		"f0"
 		"visible"			"1"
 		"enabled"			"1"
-		"font"				"FontBold18"
+		"font"				"FontRegular20"
 		"textAlignment"		"center"
-		"labelText"			"Type disable_streamer_mode in the console to disable streamer mode and see player scores!"
+		"labelText"			"Type streamer_mode in the console to disable streamer mode and see player scores!"
 	}
 
 	"BlueLine"
@@ -120,6 +120,7 @@
 		"fieldName"			"BlueBG"
 		"xpos"				"0"
 		"ypos"				"0"
+		"ypos_minmode"		"143"
 		"zpos"				"-1"
 		"wide"				"p0.5"
 		"tall"				"35"

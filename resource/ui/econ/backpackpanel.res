@@ -46,7 +46,7 @@
 			"tall"					"10"
 			"visible"				"0"
 			"bgcolor_override"		"Transparent"
-			"noitem_textcolor"		"TextColor"
+			"noitem_textcolor"		"GuiTextColorLight"
 			"PaintBackgroundType"	"2"
 			"paintborder"			"1"
 
@@ -58,7 +58,7 @@
 				"tall"					"13"
 				"visible"				"1"
 				"bgcolor_override"		"Transparent"
-				"noitem_textcolor"		"TextColor"
+				"noitem_textcolor"		"GuiTextColorLight"
 				"PaintBackgroundType"	"2"
 				"paintborder"			"1"
 				"textAlignment"			"center"
@@ -438,28 +438,6 @@
 		"Command"		"nextpage"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}
-
-	"NavHintLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"NavHintLabel"
-		"font"			"FontRegular10"
-		"xpos"			"-5"
-		"ypos"			"20"
-		"zpos"			"1"	
-		"wide"			"250"
-		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"Tip: Use the 'A' and 'D' keys to navigate between pages."
-		"textAlignment"	"west"
-		
-		"pin_to_sibling"		"Wall"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 	
 	"DragToNextPageButton"

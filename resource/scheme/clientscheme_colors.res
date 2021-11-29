@@ -168,25 +168,25 @@ Scheme
 		"StoreGreen"							"0 255 192 255"
 
 		// Building HUD Specific
-		"LowHealthRed"							"255 0 0 255"
-		"ProgressOffWhite"						"251 235 202 255"
-		"ProgressBackground"					"250 234 201 51"
-		"HealthBgGrey"							"72 71 69 255"
+		"LowHealthRed"							"255 0 64 255"
+		"ProgressOffWhite"						"192 192 255 255"
+		"ProgressBackground"					"128 128 192 64"
+		"HealthBgGrey"							"42 38 64 255"
 
-		"LabelDark"								"48 43 42 255"
-		"LabelTransparent"						"109 96 80 180"
+		"LabelDark"								"42 38 64 255"
+		"LabelTransparent"						"42 38 64 160"
 
 		"BuildMenuActive"						"248 231 198 255"
 
-		"DisguiseMenuIconRed"					"192 56 63 255"
-		"DisguiseMenuIconBlue"					"92 128 166 255"
+		"DisguiseMenuIconRed"					"255 0 96 255"
+		"DisguiseMenuIconBlue"					"0 160 255 255"
 
-		"ProgressOffWhiteTransparent"			"251 235 202 128"
- 		"MatchmakingDialogTitleColor"			"200 184 151 255"
- 		"MatchmakingMenuItemBackground"			"46 43 42 255"
+		"ProgressOffWhiteTransparent"			"192 192 255 128"
+ 		"MatchmakingDialogTitleColor"			"192 192 255 255"
+ 		"MatchmakingMenuItemBackground"			"42 38 64 255"
  		"MatchmakingMenuItemBackgroundActive"	"150 71 0 255"
-		"MatchmakingMenuItemTitleColor"			"200 184 151 255"
-		"MatchmakingMenuItemDescriptionColor"	"200 184 151 255"
+		"MatchmakingMenuItemTitleColor"			"128 128 192 255"
+		"MatchmakingMenuItemDescriptionColor"	"128 128 192 255"
 
 		"HTMLBackground"						"95 92 101 255"
 
@@ -279,11 +279,11 @@ Scheme
 		"QualityColorCollectors_GreyedOut"		"60 0 0 255"
 		"QualityColorPaintkitWeapon_GreyedOut"	"60 60 60 255"
 
-		"SaleGreen"								"76 107 34 255"
-		"LightRed"								"200 80 60 255"
-		"LighterRed"							"220 100 80 255"
-		"LighterDarkBrown"						"59 54 48 255"
-		"DarkBrown"								"41 37 38 255"
+		"SaleGreen"								"0 255 192 255"
+		"LightRed"								"255 0 64 255"
+		"LighterRed"							"255 0 64 255"
+		"LighterDarkBrown"						"42 38 64 255"
+		"DarkBrown"								"42 38 64 255"
 
 		"UpgradeDefaultFg"						"87 82 74 255"
 		"UpgradeDefaultBg"						"111 104 94 255"

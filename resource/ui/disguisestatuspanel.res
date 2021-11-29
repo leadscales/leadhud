@@ -38,7 +38,9 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"bgcolor_override"	"HudBlack"
-		"PaintBackgroundType"	"2"
+		"bgcolor_override"	"GuiTransparentDark"
+		"PaintBackgroundType"	"0"
+		"border"			"RefractiveBorder"
 	}
 
 	"DisguiseStatusBG"
@@ -54,11 +56,11 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"image"				"../hud/color_panel_brown"
+		"image"				"../hud/cart_track_neutral_opaque"
 		"scaleImage"		"1"
-		"teambg_1"			"../hud/color_panel_brown"
-		"teambg_2"			"../hud/color_panel_red"
-		"teambg_3"			"../hud/color_panel_blu"
+		"teambg_1"			"../hud/cart_track_neutral_opaque"
+		"teambg_2"			"../hud/cart_red"
+		"teambg_3"			"../hud/cart_blue"
 
 		"src_corner_height"		"23"
 		"src_corner_width"		"23"

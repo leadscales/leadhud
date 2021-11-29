@@ -23,5 +23,4 @@ cl_hud_minmode 0
 vgui_cache_res_files 0
 
 // Streamer mode alias
-alias "disable_streamer_mode" "cl_hud_minmode 0; toggle mat_antialias 0 1; wait 500; toggle mat_antialias 0 1; hud_reloadscheme; wait 500; play ui/disable_streamer_mode.wav; echo Streamer mode disabled."
-alias "enable_streamer_mode" "cl_hud_minmode 1; toggle mat_antialias 0 1; wait 500; toggle mat_antialias 0 1; hud_reloadscheme; wait 500; play ui/enable_streamer_mode.wav; echo Streamer mode enabled."
+alias "streamer_mode" "toggle cl_hud_minmode; toggle mat_antialias 0 1; wait 500; toggle mat_antialias 0 1; hud_reloadscheme; wait 500; play ui/streamer_mode.wav"

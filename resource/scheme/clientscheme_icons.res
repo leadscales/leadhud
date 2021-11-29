@@ -104,7 +104,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Streamer Mode Regular"
+				"name"			"Stream Regular"
 				"tall"			"6"
 				"additive"		"0"
 				"antialias"		"1"
@@ -122,7 +122,7 @@ Scheme
 		"122"
 		{
 			"font"	"resource/fonts/StreamerMode.ttf"
-			"name"	"Streamer Mode Regular"
+			"name"	"Stream Regular"
 		}
 	}
 }

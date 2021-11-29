@@ -10,7 +10,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"50"
 				"weight"		"0"
 				"additive"		"0"
@@ -21,7 +21,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"37"
 				"weight"		"0"
 				"additive"		"0"
@@ -32,7 +32,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"22"
 				"weight"		"0"
 				"additive"		"0"
@@ -43,7 +43,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"20"
 				"weight"		"0"
 				"additive"		"0"
@@ -55,7 +55,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"20"
 				"weight"		"0"
 				"additive"		"0"
@@ -66,7 +66,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"18"
 				"weight"		"0"
 				"additive"		"0"
@@ -77,7 +77,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"16"
 				"weight"		"0"
 				"additive"		"0"
@@ -88,7 +88,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"14"
 				"weight"		"0"
 				"additive"		"0"
@@ -99,7 +99,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"12"
 				"weight"		"0"
 				"additive"		"0"
@@ -110,7 +110,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"0"
@@ -121,7 +121,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"9"
 				"weight"		"0"
 				"additive"		"0"
@@ -134,7 +134,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"20"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -144,7 +144,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"15"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -154,7 +154,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -164,7 +164,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -174,7 +174,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"11"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -184,7 +184,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -194,7 +194,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"9"
 				"additive"		"0"
 				"antialias"		"1"
@@ -204,7 +204,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"8"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -216,14 +216,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 			"2"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"range"			"0x0000 0x00FF"
 				"weight"		"800"
@@ -233,7 +233,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -244,7 +244,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"weight"		"500"
 				"underline"		"1"
@@ -252,7 +252,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"11"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -262,7 +262,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -270,7 +270,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"13"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -278,7 +278,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -287,7 +287,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"20"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -296,7 +296,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"22"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -305,7 +305,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -315,7 +315,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -323,7 +323,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -331,7 +331,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -340,7 +340,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -349,7 +349,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"16"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -361,7 +361,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -369,7 +369,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"21"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -377,7 +377,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"22"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -386,7 +386,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"28"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -395,7 +395,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"30"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -404,14 +404,14 @@ Scheme
 			}
 			"6"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 			}
 			"7"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -422,7 +422,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"14"
 				"weight"		"900"
 				"antialias"		"1"
@@ -485,7 +485,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -494,7 +494,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"32"
 				"weight"		"500"
 				"additive"		"0"
@@ -503,7 +503,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"44"
 				"weight"		"500"
 				"additive"		"0"
@@ -512,7 +512,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"48"
 				"weight"		"500"
 				"additive"		"0"
@@ -521,7 +521,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"52"
 				"weight"		"500"
 				"additive"		"0"
@@ -533,7 +533,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"44"
 				"weight"		"500"
 				"additive"		"0"
@@ -544,7 +544,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"35"
 				"weight"		"500"
 				"additive"		"0"
@@ -555,7 +555,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"36"
 				"weight"		"500"
 				"additive"		"0"
@@ -566,7 +566,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"30"
 				"weight"		"500"
 				"additive"		"0"
@@ -577,7 +577,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"30"
 				"weight"		"500"
 				"additive"		"0"
@@ -588,7 +588,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -599,7 +599,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -610,7 +610,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -621,7 +621,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -632,7 +632,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -643,7 +643,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -654,7 +654,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -665,7 +665,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
@@ -676,7 +676,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -687,7 +687,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -699,7 +699,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"11"
 				"weight"		"500"
 				"additive"		"0"
@@ -710,7 +710,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"11"
 				"weight"		"500"
 				"additive"		"0"
@@ -722,7 +722,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"11"
 				"weight"		"500"
 				"additive"		"0"
@@ -734,7 +734,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"4"
 				"weight"		"500"
 				"additive"		"0"
@@ -746,7 +746,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
@@ -757,7 +757,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"16"
 				//"weight"		"500"
 				"additive"		"0"
@@ -768,7 +768,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"0"
@@ -779,7 +779,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"9"
 				"weight"		"0"
 				"additive"		"0"
@@ -790,7 +790,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"9"
 				"weight"		"0"
 				"additive"		"0"
@@ -801,7 +801,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"weight"		"400"
 				"additive"		"0"
@@ -813,7 +813,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"11"
 				"weight"		"500"
 				"additive"		"0"
@@ -885,7 +885,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -897,7 +897,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
@@ -955,7 +955,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"15"
 				"weight"		"700"
 				"antialias" 	"1"
@@ -965,7 +965,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"15"
 				"weight"		"700"
 				"antialias" 	"1"
@@ -975,7 +975,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"900"
 				"antialias" 	"1"
@@ -984,7 +984,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"21"
 				"weight"		"900"
 				"antialias" 	"1"
@@ -993,7 +993,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"24"
 				"weight"		"1000"
 				"antialias" 	"1"
@@ -1075,7 +1075,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"20"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1086,7 +1086,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"20"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1098,7 +1098,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"20"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1109,7 +1109,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"20"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1121,7 +1121,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"15"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1156,7 +1156,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1166,7 +1166,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"11"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1176,7 +1176,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1187,7 +1187,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"13"
 				"weight"		"800"
 				"additive"		"0"
@@ -1199,7 +1199,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Medium"
+				"name"			"Purista-Medium"
 				"tall"			"28"
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
@@ -1210,7 +1210,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Medium"
+				"name"			"Purista-Medium"
 				"tall"			"40"
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
@@ -1221,7 +1221,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Medium"
+				"name"			"Purista-Medium"
 				"tall"			"24"
 				"antialias" 	"1"
 				"custom"		"1" [$OSX]
@@ -1232,7 +1232,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Medium"
+				"name"			"Purista-Medium"
 				"tall"			"14" [!$OSX]
 				"tall"			"15" [$OSX]
 				"antialias"		"1"
@@ -1256,7 +1256,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"8"
 				"weight"		"400"
 				"additive"		"0"
@@ -1267,7 +1267,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"9"
 				"weight"		"400"
 				"additive"		"0"
@@ -1278,7 +1278,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1290,7 +1290,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"20"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1302,7 +1302,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"20"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1314,7 +1314,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1326,7 +1326,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1338,7 +1338,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"34"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1350,7 +1350,7 @@ Scheme
  		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"36"
 				"weight"		"500"
 				"additive"		"0"
@@ -1361,7 +1361,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"52"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1370,7 +1370,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"72"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1379,7 +1379,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"100"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1388,7 +1388,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"140"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1397,7 +1397,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"180"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1410,7 +1410,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"36"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1422,7 +1422,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
@@ -1433,7 +1433,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"20"
 				"weight"		"400"
 				"additive"		"0"
@@ -1445,7 +1445,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
@@ -1457,7 +1457,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1468,7 +1468,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"7"
 				"weight"		"400"
 				"additive"		"0"
@@ -1480,7 +1480,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1634,7 +1634,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"300"
@@ -1646,7 +1646,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"weight"		"500"
 				"range"			"0x0000 0x017F"
@@ -1658,7 +1658,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"8"
 				"weight"		"500"
 				"range"			"0x0000 0x017F"
@@ -1671,7 +1671,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"1"
@@ -1682,7 +1682,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"weight"		"400"
 				"additive"		"0"
@@ -1707,7 +1707,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"36"
 				"weight"		"500"
 			}
@@ -1716,7 +1716,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"30"
 				"weight"		"500"
 			}
@@ -1725,7 +1725,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"28"
 				"weight"		"500"
 			}
@@ -1734,7 +1734,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"22"
 				"weight"		"900"
 			}
@@ -1743,7 +1743,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"900"
 			}
@@ -1752,7 +1752,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"22"
 				"weight"		"500"
 			}
@@ -1761,7 +1761,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"500"
 			}
@@ -1770,7 +1770,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"22"
 				"weight"		"900"
 			}
@@ -1779,7 +1779,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"900"
 			}
@@ -1789,7 +1789,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"15"
 				"weight"		"900"
 			}
@@ -1799,7 +1799,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"36"
 				"weight"		"500"
 				"additive"		"0"
@@ -1810,7 +1810,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"11"
 				"weight"		"600"
 				"additive"		"0"
@@ -1822,7 +1822,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"400"
 				"additive"		"0"
@@ -1868,7 +1868,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1912,7 +1912,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"8"
 				"weight"		"500"
 				"additive"		"0"
@@ -1923,7 +1923,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -1934,7 +1934,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -1945,7 +1945,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Bold"
+				"name"			"Purista-Bold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -1956,7 +1956,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"8"
 				"weight"		"500"
 				"additive"		"0"
@@ -1967,7 +1967,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"8"
 				"antialias"		"1"
 				"weight"		"500"
@@ -1977,7 +1977,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -1988,7 +1988,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"11"
 				"weight"		"500"
 				"additive"		"0"
@@ -1999,7 +1999,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -2011,7 +2011,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"9"
 				"weight"		"500"
 				"additive"		"0"
@@ -2022,7 +2022,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"9"
 				"weight"		"500"
 				"blur"			"3"
@@ -2034,7 +2034,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"7"
 				"weight"		"0"
 				"additive"		"1"
@@ -2162,7 +2162,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium Medium"
+				"name"			"Purista-Medium"
 				"tall"			"20"
 				"antialias" 	"1"
 				"custom"		"1" [$OSX]
@@ -2173,7 +2173,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"400"
 				"yres"			"480 599"
@@ -2182,7 +2182,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
@@ -2191,7 +2191,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"22"
 				"weight"		"400"
 				"additive"		"0"
@@ -2203,7 +2203,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"400"
 				"yres"			"480 599"
@@ -2213,7 +2213,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
@@ -2223,7 +2223,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"22"
 				"weight"		"400"
 				"additive"		"0"
@@ -2236,7 +2236,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"800"
 				"yres"			"480 599"
@@ -2245,7 +2245,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"800"
 				"additive"		"0"
@@ -2254,7 +2254,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"800"
 				"additive"		"0"
@@ -2266,7 +2266,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"13"
 				"weight"		"400"
 				"additive"		"0"
@@ -2277,7 +2277,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"16"
 				"weight"		"400"
 				"additive"		"0"
@@ -2289,7 +2289,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -2393,7 +2393,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"11"
 				"weight"		"500"
 				"additive"		"0"
@@ -2457,7 +2457,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"11"
 				"weight"		"500"
 				"additive"		"0"
@@ -2468,7 +2468,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -2479,7 +2479,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -2490,7 +2490,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -2501,7 +2501,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -2514,7 +2514,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -2525,7 +2525,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -2537,7 +2537,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"15"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -2550,7 +2550,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"9"
 				"weight"		"400"
 				"additive"		"0"
@@ -2562,7 +2562,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"11"
 				"weight"		"500"
 				"antialias" 	"1"
@@ -2573,7 +2573,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"11"
 				"weight"		"500"
 				"blur"			"3"
@@ -2586,7 +2586,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -2599,7 +2599,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"JetBrains Mono Bold"
 				"tall"			"7"
 				"weight"		"0"
 				"blur"			"3"
@@ -2611,7 +2611,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"JetBrains Mono Bold"
 				"tall"			"7"
 				"weight"		"400"
 				"additive"		"0"
@@ -2622,7 +2622,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"JetBrains Mono Bold"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -2633,7 +2633,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"JetBrains Mono Bold"
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
@@ -2644,7 +2644,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Oxanium SemiBold"
+				"name"			"JetBrains Mono Bold"
 				"tall"			"30"
 				"weight"		"400"
 				"additive"		"0"
@@ -2789,18 +2789,23 @@ Scheme
 		}
 		"8"
 		{
-			"font"	"resource/fonts/OxaniumBold.ttf"
-			"name"	"Oxanium Bold"
+			"font"	"resource/fonts/PuristaBold.ttf"
+			"name"	"Purista-Bold"
 		}
 		"9"
 		{
-			"font"	"resource/fonts/OxaniumSemi.ttf"
-			"name"	"Oxanium SemiBold"
+			"font"	"resource/fonts/PuristaSemi.ttf"
+			"name"	"Purista-SemiBold"
 		}
 		"10"
 		{
-			"font"	"resource/fonts/OxaniumMed.ttf"
-			"name"	"Oxanium Medium"
+			"font"	"resource/fonts/PuristaMed.ttf"
+			"name"	"Purista-Medium"
+		}
+		"11"
+		{
+			"font"	"resource/fonts/MonoBold.ttf"
+			"name"	"JetBrains Mono Bold"
 		}
 	}
 }

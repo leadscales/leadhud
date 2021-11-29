@@ -7,6 +7,10 @@
 	// Change xpos and ypos values if not perfectly centered.
 	// Change labelText to the corresponding crosshair in TF2Crosshairs.png.
 	//--------------------------------------------------------------
+	// Currently, the crosshair works as a HITMARKER! To change this,
+	// Go to clientscheme_colors.res and change the crosshair colors from there.
+	// They are formatted R G B A!
+	//--------------------------------------------------------------
 	"CustomCrosshair"
 	{
 		"visible"			"1"
@@ -211,7 +215,7 @@
 	{
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"c-50"
-		"ypos"					"c87"
+		"ypos"					"c30"
 		"wide"					"100"
 		"tall"  				"100"
 		"visible" 				"1"
@@ -248,8 +252,8 @@
 		"fieldName" 			"DisguiseStatus"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"100"
-		"ypos"					"r38"
+		"xpos"					"0"
+		"ypos"					"r150"
 		"zpos"					"10"
 		"wide"					"170"
 		"tall"					"38"

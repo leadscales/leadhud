@@ -10,6 +10,9 @@
 		"image"			"../sprites/obj_icons/icon_obj_white" 
 	}
 
+	// Alright, so these cap images (Including the mask) have been an indescribably massive pain in the ass to get preloaded and working on sv_pure servers.
+	// No matter what I do, they don't preload. At all. At this point, I'm assuming they CAN'T be preloaded because fuck you, thats why.
+	// If anyone knows how to get these images pre-loaded and working on sv_pure servers, please let me know. I've lost so much hair over this.
 	"CPCapMask"
 	{
 		"ControlName"	"ImagePanel"
@@ -79,6 +82,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_blu_locked"
 	}
+
 	"CPIconRed"
 	{
 		"ControlName"	"ImagePanel"
@@ -428,6 +432,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_a"
 	}
+
 	"CPIconB"
 	{
 		"ControlName"	"ImagePanel"
@@ -437,6 +442,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_b"
 	}
+
 	"CPIconC"
 	{
 		"ControlName"	"ImagePanel"
@@ -446,6 +452,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_c"
 	}
+
 	"CPIconD"
 	{
 		"ControlName"	"ImagePanel"
@@ -455,6 +462,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_d"
 	}
+
 	"CPIconE"
 	{
 		"ControlName"	"ImagePanel"
@@ -474,6 +482,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_blue"
 	}
+
 	"CartPointBlu"
 	{
 		"ControlName"	"ImagePanel"
@@ -492,6 +501,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_point_blue_opaque"
 	}
+
 	"CartPointNeutral"
 	{
 		"ControlName"	"ImagePanel"
@@ -510,6 +520,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_point_neutral_opaque"
 	}
+
 	"cartpointred"
 	{
 		"ControlName"	"ImagePanel"
@@ -528,6 +539,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_point_red_opaque"
 	}
+
 	"CartRed"
 	{
 		"ControlName"	"ImagePanel"
@@ -547,6 +559,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_track_blue"
 	}
+
 	"CartTrackBlueOpaque"
 	{
 		"ControlName"	"ImagePanel"
@@ -556,6 +569,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_track_blue_opaque"
 	}
+
 	"CartTrackNeutralOpaque"
 	{
 		"ControlName"	"ImagePanel"
@@ -574,6 +588,7 @@
 		"enabled"		"1"
 		"image"			"../hud/cart_track_red"
 	}
+
 	"CartTrackRedOpaque"
 	{
 		"ControlName"	"ImagePanel"
@@ -592,6 +607,7 @@
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_ico_flag_dropped"
 	}
+
 	"CaptureHome"
 	{
 		"ControlName"	"ImagePanel"
@@ -601,6 +617,7 @@
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_ico_flag_home"
 	}
+
 	"CaptureHomeAlt"
 	{
 		"ControlName"	"ImagePanel"
@@ -610,6 +627,7 @@
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_ico_flag_home_alt"
 	}
+
 	"CaptureMoving"
 	{
 		"ControlName"	"ImagePanel"
@@ -619,6 +637,7 @@
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_ico_flag_moving"
 	}
+
 	"CaptureMovingAlt"
 	{
 		"ControlName"	"ImagePanel"
@@ -628,6 +647,8 @@
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_ico_flag_moving_alt"
 	}
+
+	// These won't preload either, WTF?
 	"CaptureArrowRed"
 	{
 		"ControlName"	"ImagePanel"
@@ -637,6 +658,7 @@
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_compass_red"
 	}
+
 	"CaptureArrowBLue"
 	{
 		"ControlName"	"ImagePanel"
@@ -646,6 +668,7 @@
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_compass_blue"
 	}
+
 	"CaptureArrowGrey"
 	{
 		"ControlName"	"ImagePanel"
@@ -655,6 +678,7 @@
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_compass_grey"
 	}
+
 	"CaptureArrowGreyRed"
 	{
 		"ControlName"	"ImagePanel"
@@ -664,6 +688,7 @@
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_compass_grey_with_red"
 	}
+
 	"CaptureArrowRedNone"
 	{
 		"ControlName"	"ImagePanel"
@@ -673,6 +698,7 @@
 		"enabled"		"1"
 		"image"			"../hud/objectives_flagpanel_compass_red_noarrow"
 	}
+
 	"CaptureArrowBlueNone"
 	{
 		"ControlName"	"ImagePanel"

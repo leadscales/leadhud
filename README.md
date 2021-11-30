@@ -4,9 +4,11 @@
 
 LeadHUD is a modern, functional HUD for Team Fortress 2, taking inspiration from modern FPS games.
 
+LeadHUD is still work in progress and will remain so for a while. Plans are to have almost every element customized and to fit in with the current style of the HUD.
+
 # Installation:
 
-Clone the repo with git or download the zip manually, and drag and drop the **leadhud-main** folder into the /tf/custom/ folder.
+Clone the repo with git or download the zip manually, extract it, and drag and drop the **leadhud-main** folder into the /tf/custom/ folder.
 
 # Crosshairs
 

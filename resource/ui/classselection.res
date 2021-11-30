@@ -40,7 +40,7 @@
 		"textAlignment"				"center"
 		"Command"					"joinclass scout"
 		"Default"					"0"
-		"font"						"FontBold14"
+		"font"						"FontRegular15"
 		"textinsetx"				"4"
 		"paintbackground"			"1"
 		
@@ -81,7 +81,7 @@
 		"textAlignment"				"center"
 		"Command"					"joinclass soldier"
 		"Default"					"0"
-		"font"						"FontBold14"
+		"font"						"FontRegular15"
 		"textinsetx"				"4"
 		"paintbackground"			"1"
 		
@@ -122,7 +122,7 @@
 		"textAlignment"				"center"
 		"Command"					"joinclass pyro"
 		"Default"					"0"
-		"font"						"FontBold14"
+		"font"						"FontRegular15"
 		"textinsetx"				"4"
 		"paintbackground"			"1"
 		
@@ -163,7 +163,7 @@
 		"textAlignment"				"center"
 		"Command"					"joinclass demoman"
 		"Default"					"0"
-		"font"						"FontBold14"
+		"font"						"FontRegular15"
 		"textinsetx"				"4"
 		"paintbackground"			"1"
 		
@@ -204,7 +204,7 @@
 		"textAlignment"				"center"
 		"Command"					"joinclass heavyweapons"
 		"Default"					"0"
-		"font"						"FontBold14"
+		"font"						"FontRegular15"
 		"textinsetx"				"4"
 		"paintbackground"			"1"
 		
@@ -245,7 +245,7 @@
 		"textAlignment"				"center"
 		"Command"					"joinclass engineer"
 		"Default"					"0"
-		"font"						"FontBold14"
+		"font"						"FontRegular15"
 		"textinsetx"				"4"
 		"paintbackground"			"1"
 		
@@ -286,7 +286,7 @@
 		"textAlignment"				"center"
 		"Command"					"joinclass medic"
 		"Default"					"0"
-		"font"						"FontBold14"
+		"font"						"FontRegular15"
 		"textinsetx"				"4"
 		"paintbackground"			"1"
 		
@@ -327,7 +327,7 @@
 		"textAlignment"				"center"
 		"Command"					"joinclass sniper"
 		"Default"					"0"
-		"font"						"FontBold14"
+		"font"						"FontRegular15"
 		"textinsetx"				"4"
 		"paintbackground"			"1"
 		
@@ -368,7 +368,7 @@
 		"textAlignment"				"center"
 		"Command"					"joinclass spy"
 		"Default"					"0"
-		"font"						"FontBold14"
+		"font"						"FontRegular15"
 		"textinsetx"				"4"
 		"paintbackground"			"1"
 		

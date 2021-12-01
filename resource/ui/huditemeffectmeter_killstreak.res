@@ -5,7 +5,7 @@
 	"HudItemEffectMeter"
 	{
 		"xpos"				"2"
-		"ypos"				"r20"
+		"ypos"				"r55"
 	}
 	
 	"ItemEffectMeterLabel"
@@ -17,6 +17,7 @@
 	"ItemEffectMeterCount"
 	{
 		"xpos"				"20"
+		"font"				"FontRegular20"
 	}
 
 	"StreakIcon"

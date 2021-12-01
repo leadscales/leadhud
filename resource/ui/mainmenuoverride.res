@@ -175,35 +175,35 @@
 		
 		"if_halloween_0"
 		{
-			"image"		"../console/title_team_halloween2011_widescreen"
+			"image"		"../console/background_upward_widescreen"
 		}
 		"if_halloween_1"
 		{
-			"image"		"../console/title_team_halloween2012_widescreen"
+			"image"		"../console/background_upward_widescreen"
 		}
 		"if_halloween_2"
 		{
-			"image"		"../console/title_team_halloween2013_widescreen"
+			"image"		"../console/background_upward_widescreen"
 		}
 		"if_halloween_3"
 		{
-			"image"		"../console/title_team_halloween2014_widescreen"
+			"image"		"../console/background_upward_widescreen"
 		}
 		"if_halloween_4"
 		{	
-			"image"		"../console/title_team_halloween2015_widescreen"
+			"image"		"../console/background_upward_widescreen"
 		}
 		"if_halloween_5"
 		{	
-			"image"		"../console/title_scream_fortress_2017_widescreen"
+			"image"		"../console/background_upward_widescreen"
 		}
 		"if_fullmoon"
 		{
-			"image"		"../console/title_fullmoon_widescreen"
+			"image"		"../console/background_upward_widescreen"
 		}
 		"if_christmas"
 		{
-			"image"		"../console/background_xmas2020_widescreen"
+			"image"		"../console/background_upward_widescreen"
 		}
 	}
 
@@ -1076,7 +1076,7 @@
 		"defaultBgColor_override"	"GuiTransparentLighter"
 		"armedFgColor_override"		"GuiTextColorDarkest"
 		"armedBgColor_override"		"AccentLight"
-		"command"					"engine showconsole; clear; echo LeadHUD v0.3; echo Made by Lead; echo Based off of FlawHUD; echo Discord: Lead#0621 (Please report bugs)"
+		"command"					"engine showconsole; clear; echo LeadHUD v0.4; echo Made by Lead; echo Based off of FlawHUD; echo Discord: Lead#0621 (Please report bugs)"
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
 	}

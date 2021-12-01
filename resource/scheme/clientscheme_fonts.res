@@ -10,7 +10,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"50"
 				"weight"		"0"
 				"additive"		"0"
@@ -21,7 +21,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"37"
 				"weight"		"0"
 				"additive"		"0"
@@ -32,7 +32,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"22"
 				"weight"		"0"
 				"additive"		"0"
@@ -43,7 +43,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"20"
 				"weight"		"0"
 				"additive"		"0"
@@ -55,7 +55,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"20"
 				"weight"		"0"
 				"additive"		"0"
@@ -66,7 +66,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"0"
 				"additive"		"0"
@@ -77,7 +77,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"16"
 				"weight"		"0"
 				"additive"		"0"
@@ -88,7 +88,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"0"
 				"additive"		"0"
@@ -99,7 +99,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"weight"		"0"
 				"additive"		"0"
@@ -110,7 +110,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"0"
@@ -121,7 +121,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"9"
 				"weight"		"0"
 				"additive"		"0"
@@ -130,6 +130,16 @@ Scheme
 			}
 		}
 
+		"FontRegular37"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"37"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
 		"FontRegular20"
 		{
 			"1"
@@ -422,7 +432,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"14"
 				"weight"		"900"
 				"antialias"		"1"
@@ -610,7 +620,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -621,7 +631,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -897,7 +907,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
@@ -1075,7 +1085,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"20"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1086,7 +1096,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"20"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1098,7 +1108,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"20"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1109,7 +1119,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"20"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1121,7 +1131,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"15"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1410,7 +1420,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"36"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1912,7 +1922,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"8"
 				"weight"		"500"
 				"additive"		"0"
@@ -1923,7 +1933,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -1934,7 +1944,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -1945,7 +1955,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Purista-Bold"
+				"name"			"Purista-SemiBold"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"

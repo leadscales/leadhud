@@ -84,7 +84,7 @@
 		"font"				"FontRegular12"
 		"font_minmode"		"FontStreamerMode"
 		"xpos"				"-20"
-		"ypos"				"35"
+		"ypos"				"34"
 		"zpos"				"1"
 		"wide"				"640"
 		"tall"				"13"
@@ -92,25 +92,6 @@
 		"enabled"			"1"
 		"labelText"			"%targetname%"
 		"textAlignment"		"west"
-	}
-
-	"TargetNameLabelShadow"
-	{
-		"ControlName"		"Label"
-		"fieldName"			"TargetNameLabelShadow"
-		"font"				"FontRegular12"
-		"font_minmode"		"FontStreamerMode"
-		"xpos"				"-1"
-		"ypos"				"-1"
-		"zpos"				"1"
-		"wide"				"640"
-		"tall"				"13"
-		"visible"			"1"
-		"enabled"			"1"
-		"labelText"			"%targetname%"
-		"textAlignment"		"west"
-		"fgcolor_override"	"ShadowBlack"
-		"pin_to_sibling"	"TargetNameLabel"
 	}
 
 	"TargetDataLabel"

@@ -59,28 +59,28 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"			"classmodelpanelBG"
-		"xpos"				"-2"		[$WIN32]
-		"xpos_minmode"		"-2"		[$WIN32]
-		"ypos"				"r15"	[$WIN32]
-		"ypos_minmode"		"r15"	[$WIN32]
-		"zpos"				"1"		
-		"wide"				"200"
-		"tall"				"25"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"replay/thumbnails/misc/class_model_panel"	
-		"teambg_2"			"replay/thumbnails/misc/class_model_panel"
-		"teambg_2_lodef"	"replay/thumbnails/misc/class_model_panel"
-		"teambg_3"			"replay/thumbnails/misc/class_model_panel"
-		"teambg_3_lodef"	"replay/thumbnails/misc/class_model_panel"
+		"xpos"				"9999"
+		"ypos"				"9999"
+		"zpos"				"6"
+		"wide"				"140"
+		"tall"				"35"
+		"visible"			"0"
+		"enabled"			"0"
+		"image"				"replay/thumbnails/neutral_panel"	
+		"teambg_2"			"replay/thumbnails/red_panel"
+		"teambg_2_lodef"	"replay/thumbnails/red_panel"
+		"teambg_3"			"replay/thumbnails/blue_panel"
+		"teambg_3_lodef"	"replay/thumbnails/blue_panel"
 	}
 
 	"classmodelpanel"
 	{
 		"ControlName"		"CTFPlayerModelPanel"
 		"fieldName"			"classmodelpanel"
-		"xpos"				"0"
-		"ypos"				"r200"
+		// "xpos"				"0"
+		// "ypos"				"r200"
+		"xpos"				"9999"
+		"ypos"				"9999"
 		"zpos"				"2"
 		"wide"				"150"
 		"tall"				"200"

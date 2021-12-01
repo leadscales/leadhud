@@ -836,8 +836,8 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"%numSniper%"
+		"font"						"FontRegular20"
 		"textAlignment"				"center"
-		"textAlignment"				"west"
 		"mouseinputenabled"			"0"
 
 		"pin_to_sibling"			"sniper"

@@ -2,7 +2,7 @@
 {
 	"TargetBG"
 	{
-		"ControlName"		"ImagePanel"
+		"ControlName"		"EditablePanel"
 		"fieldName"			"TargetBG"
 		"xpos"				"0"
 		"ypos"				"33"
@@ -11,7 +11,9 @@
 		"tall"				"17"
 		"visible"			"1"
 		"enabled"			"1"
-		"fillcolor"			"HudBlack"
+		"bgcolor_override"	"GuiTransparentDark"
+		"PaintBackgroundType"	"0"
+		"border"			"RefractiveBorder"
 	}
 
 	"TargetIDBG"
@@ -25,11 +27,11 @@
 		"tall"	 			"35"
 		"visible"			"1"
 		"enabled"			"1"
-		"image"				"../hud/color_panel_brown"
+		"image"				"replay/thumbnails/neutralbg"
 		"scaleImage"		"1"
-		"teambg_1"			"../hud/color_panel_brown"
-		"teambg_2"			"../hud/color_panel_red"
-		"teambg_3"			"../hud/color_panel_blu"
+		"teambg_1"			"replay/thumbnails/neutralbg"
+		"teambg_2"			"replay/thumbnails/redbg"
+		"teambg_3"			"replay/thumbnails/bluebg"
 
 		"src_corner_height"		"23"
 		"src_corner_width"		"23"

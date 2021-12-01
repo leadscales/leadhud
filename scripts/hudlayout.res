@@ -115,9 +115,9 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"0"
-		"ypos"				"c38"
+		"ypos"				"c10"
 		"wide"				"f0"
-		"tall"				"300"
+		"tall"				"f0"
 	}
 
 	"HudDemomanCharge"
@@ -265,7 +265,7 @@
 		"visible" 				"0"
 		"enabled" 				"1"
 		"xpos"					"c-126"
-		"ypos"					"265"
+		"ypos"					"276"
 		"wide"					"200"
 		"tall"					"50"
 		"priority"				"40"

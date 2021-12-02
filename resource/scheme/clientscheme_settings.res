@@ -46,13 +46,13 @@ Scheme
 		Button.DepressedTextColor				"GuiTextColorDarker"
 		Button.DepressedBgColor					"GuiColorLightest"
 
-		CheckButton.TextColor					"GuiTextColorDarker"
+		CheckButton.TextColor					"GuiTextColorMedium"
 		CheckButton.SelectedTextColor			"GuiTextColorLight"
 		CheckButton.BgColor						"GuiTransparentMedium"
 		CheckButton.Border1  					"White"		// the left checkbutton border
 		CheckButton.Border2  					"White"		// the right checkbutton border
 		CheckButton.Check						"White"		// color of the check itself
-		CheckButton.HighlightFgColor			"GuiTextColorDarker"
+		CheckButton.HighlightFgColor			"ColorPositive"
 
 		ComboBoxButton.ArrowColor				"White"
 		ComboBoxButton.ArmedArrowColor			"White"
@@ -92,7 +92,7 @@ Scheme
 
 		ListPanel.TextColor						"GuiTextColorDarker"
 		ListPanel.BgColor						"GuiTransparentLight"
-		ListPanel.SelectedTextColor				"GuiTextColorL"
+		ListPanel.SelectedTextColor				"GuiTextColorLight"
 		ListPanel.SelectedBgColor				"GuiColorLightest"
 		ListPanel.SelectedOutOfFocusBgColor		"ColorNegative"
 		ListPanel.EmptyListInfoTextColor		"GuiTextColorMedium"
@@ -110,8 +110,8 @@ Scheme
 
 		HTML.BgColor							"Blank"
 
-		ProgressBar.FgColor						"GuiColorLightest"
-		ProgressBar.BgColor						"GuiColorDark"
+		ProgressBar.FgColor						"ColorNegative"
+		ProgressBar.BgColor						"GuiTransparentLight"
 
 		CircularProgressBar.FgColor				"GuiColorLightest"
 		CircularProgressBar.BgColor				"GuiColorDark"
@@ -153,11 +153,11 @@ Scheme
 		SectionedListPanel.OutOfFocusSelectedTextColor	"GuiTextColorDarker"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"255 255 255 32"
 
-		Slider.NobColor							"108 108 108 255"
-		Slider.TextColor						"127 140 127 255"
-		Slider.TrackColor						"31 31 31 255"
-		Slider.DisabledTextColor1				"117 117 117 255"
-		Slider.DisabledTextColor2				"30 30 30 255"
+		Slider.NobColor							"AccentLight"
+		Slider.TextColor						"GuiTextColorMedium"
+		Slider.TrackColor						"GuiColorLightest"
+		Slider.DisabledTextColor1				"GuiTextColorDark"
+		Slider.DisabledTextColor2				"GuiTextColorDarker"
 
 		TextEntry.TextColor						"GuiTextColorLight"
 		TextEntry.BgColor						"Blank"
@@ -204,8 +204,8 @@ Scheme
 		"TeamBlue"								"TeamColorBlue"
 
 		"MapDescriptionText"					"Gray" // the text used in the map description window
-		"HudIcon_Green"							"0 160 0 255"
-		"HudIcon_Red"							"160 0 0 255"
+		"HudIcon_Green"							"ColorPositive"
+		"HudIcon_Red"							"ColorNegative"
 
 		// CHudMenu
 		"ItemColor"								"255 167 42 200"	// default 255 167 42 255

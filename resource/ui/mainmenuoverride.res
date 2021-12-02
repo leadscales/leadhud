@@ -173,6 +173,8 @@
 			"tall"		"f0"
 		}
 		
+		// FUCK HALLOWEEN AND CHRISTMAS!!!
+
 		"if_halloween_0"
 		{
 			"image"		"../console/background_upward_widescreen"
@@ -322,7 +324,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"NoGCMessage"
 		"xpos"			"cs-0.5"
-		"ypos"			"r80"
+		"ypos"			"r85"
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"50"
@@ -343,10 +345,10 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"NoGCImage"
 		"xpos"			"cs-0.5"
-		"ypos"			"r45"
+		"ypos"			"r50"
 		"zpos"			"5"
-		"wide"			"40"
-		"tall"			"40"
+		"wide"			"30"
+		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"replay\thumbnails\nogc"
@@ -1010,6 +1012,7 @@
 		"wide"						"p0.15"
 		"tall"						"36"
 		"labelText"					"MAKE A SERVER"
+		"labelText_minmode"			"DOX YOURSELF"
 		"font"						"FontRegular12"
 		"textAlignment"				"center"
 		"paintborder"				"0"
@@ -1113,7 +1116,7 @@
 			"default"					"1"
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			"defaultBgColor_override"	"GuiTransparentLighter"
+			"defaultBgColor_override"	"Blank"
 			"armedFgColor_override"		"GuiTextColorDarkest"
 			"armedBgColor_override"		"AccentLight"
 		}
@@ -1151,7 +1154,7 @@
 			"default"					"1"
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			"defaultBgColor_override"	"GuiTransparentLighter"
+			"defaultBgColor_override"	"Blank"
 			"armedFgColor_override"		"GuiTextColorDarkest"
 			"armedBgColor_override"		"AccentLight"
 		}
@@ -1189,7 +1192,7 @@
 			"default"					"1"
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			"defaultBgColor_override"	"GuiTransparentLighter"
+			"defaultBgColor_override"	"Blank"
 			"armedFgColor_override"		"GuiTextColorDarkest"
 			"armedBgColor_override"		"AccentLight"
 		}
@@ -1227,7 +1230,7 @@
 			"default"					"1"
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
-			"defaultBgColor_override"	"GuiTransparentLighter"
+			"defaultBgColor_override"	"Blank"
 			"armedFgColor_override"		"GuiTextColorDarkest"
 			"armedBgColor_override"		"AccentLight"
 		}

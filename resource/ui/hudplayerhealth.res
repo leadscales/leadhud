@@ -28,20 +28,6 @@
 		"image"				"replay/thumbnails/low_health_border"
 	}
 
-	"LowHealthLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"			"LowHealthLabel"
-		"xpos"				"cs-0.5"
-		"ypos"				"350"
-		"wide"				"f0"
-		"tall"				"100"
-		"fgcolor"			"ColorNegative"
-		"labelText"			"GET TO HEALTH"
-		"textAlignment"		"center"
-		"font"				"FontRegular14"
-	}
-
 	"PlayerStatusHealthImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -127,6 +113,40 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"font"			"FontRegular37"
+	}
+
+	"PlayerHealthValueExtra"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerHealthValueExtra"
+		"xpos"			"cs-0.5-30"
+		"ypos"			"cs-0.5"
+		"zpos"			"8"
+		"wide"			"50"
+		"tall"			"25"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"
+		"font"			"FontRegular14"
+	}
+
+	"PlayerHealthValueExtraShadow"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"			"PlayerHealthValueExtraShadow"
+		"xpos"				"-1"
+		"ypos"				"-1"
+		"zpos"				"8"
+		"wide"				"50"
+		"tall"				"25"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"%Health%"
+		"textAlignment"		"center"
+		"font"				"FontRegular14"
+		"fgcolor"			"ShadowBlack"
+		"pin_to_sibling"	"PlayerHealthValueExtra"
 	}
 
 	"PlayerStatusMaxHealthValue"

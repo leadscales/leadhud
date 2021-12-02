@@ -89,12 +89,12 @@ Scheme
 		//---------------------------------------------
 		// DEFAULT COLORS
 		//---------------------------------------------
-		"Orange"								"178 82 22 255"
-		"OrangeDim"								"178 82 22 120"
-		"LightOrange"							"188 112 0 128"
-		"GoalOrange"							"255 133 0 255"
-		"TFOrange"								"145 73 59 255"
-		"Purple"								"137 69 99 255"
+		"Orange"								"255 0 160 255"
+		"OrangeDim"								"255 0 160 120"
+		"LightOrange"							"255 0 128 128"
+		"GoalOrange"							"255 0 160 255"
+		"TFOrange"								"255 0 160 255"
+		"Purple"								"255 0 160 255"
 
 		"HalloweenThemeColor2015_Light"			"238 126 17 255"
 		"HalloweenThemeColor2015"				"135 54 16 255"
@@ -164,7 +164,7 @@ Scheme
 		"TanLight"								"192 192 255 255"
 		"TanDarker"								"64 64 128 255"
 
-		"StoreDarkTan"							"128 128 192 255"
+		"StoreDarkTan"							"0 255 192 255"
 		"StoreGreen"							"0 255 192 255"
 
 		// Building HUD Specific
@@ -184,7 +184,7 @@ Scheme
 		"ProgressOffWhiteTransparent"			"192 192 255 128"
  		"MatchmakingDialogTitleColor"			"192 192 255 255"
  		"MatchmakingMenuItemBackground"			"42 38 64 255"
- 		"MatchmakingMenuItemBackgroundActive"	"150 71 0 255"
+ 		"MatchmakingMenuItemBackgroundActive"	"0 255 192 255"
 		"MatchmakingMenuItemTitleColor"			"128 128 192 255"
 		"MatchmakingMenuItemDescriptionColor"	"128 128 192 255"
 

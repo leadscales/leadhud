@@ -251,7 +251,7 @@
 			if_match
 			{
 				"xpos"			"0"
-				"ypos"			"7"
+				"ypos"			"0"
 				"wide"			"80"
 				"font"			"FontBold14"
 			}

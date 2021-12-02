@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/replay/thumbnails/meter_mask_blue"
+	"$translucent" 1
+}

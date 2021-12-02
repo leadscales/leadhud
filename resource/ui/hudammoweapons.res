@@ -67,6 +67,41 @@
 		"labelText"			"%Ammo%"
 	}
 
+	"AmmoInClipExtra"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"			"AmmoInClipExtra"
+		"font"				"FontRegular14"
+		"fgcolor"			"HudWhite"
+		"xpos"				"cs-0.5+30"
+		"ypos"				"cs-0.5"
+		"zpos"				"8"
+		"wide"				"50"
+		"tall"				"25"
+		"visible"			"1"
+		"enabled"			"1"
+		"textAlignment"		"center"
+		"labelText"			"%Ammo%"
+	}
+
+	"AmmoInClipExtraShadow"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"			"AmmoInClipExtraShadow"
+		"font"				"FontRegular14"
+		"fgcolor"			"ShadowBlack"
+		"xpos"				"-1"
+		"ypos"				"-1"
+		"zpos"				"8"
+		"wide"				"50"
+		"tall"				"25"
+		"visible"			"1"
+		"enabled"			"1"
+		"textAlignment"		"center"
+		"labelText"			"%Ammo%"
+		"pin_to_sibling"	"AmmoInClipExtra"
+	}
+
 	"AmmoInClipShadow"
 	{
 		"ControlName"		"CExLabel"

@@ -176,7 +176,7 @@
 		"xpos"				"9999"
 		"ypos"				"9999"
 		"zpos"				"2"
-		"wide"				"f0"
+		"wide"				"20"
 		"tall"				"20"
 		"autoResize"		"0"
 		"pinCorner"			"3"

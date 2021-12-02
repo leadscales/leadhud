@@ -148,14 +148,14 @@ Scheme
 		"HudPanelBackground"					"16 14 24 184"
 		"HudPanelBorder"						"2 0 4 0"
 
-		"HudProgressBarActive"					"240 207 78 255"
-		"HudProgressBarInActive"				"140 120 73 255"
-		"HudProgressBarActiveLow"				"240 30 30 255"
-		"HudProgressBarInActiveLow"				"240 30 30 99"
+		"HudProgressBarActive"					"192 192 255 255"
+		"HudProgressBarInActive"				"128 128 192 255"
+		"HudProgressBarActiveLow"				"255 0 64 255"
+		"HudProgressBarInActiveLow"				"255 0 64 96"
 
-		"HudTimerProgressActive"				"251 235 202 255"
-		"HudTimerProgressInActive"				"52 48 45 255"
-		"HudTimerProgressWarning"				"240 30 30 255"
+		"HudTimerProgressActive"				"192 192 255 255"
+		"HudTimerProgressInActive"				"64 64 128 255"
+		"HudTimerProgressWarning"				"255 0 64 255"
 
 		// Training
 		"HudTrainingHint"						"255 0 64 255"

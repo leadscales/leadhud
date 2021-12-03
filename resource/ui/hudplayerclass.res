@@ -13,13 +13,13 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
-	
+
 	"PlayerStatusClassImage"
 	{
 		"ControlName"	"CTFClassImage"
 		"fieldName"		"PlayerStatusClassImage"
-		"xpos"			"25"
-		"ypos"			"r75"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"2"
 		"wide"			"75"
 		"tall"			"75"

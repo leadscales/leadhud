@@ -285,7 +285,7 @@
 		"playerpanels_kv"
 		{
 			"visible"		"0"
-			"wide"			"25"
+			"wide"			"20"
 			"tall"			"50"
 			"zpos"			"1"
 			"proportionaltoparent"	"1"

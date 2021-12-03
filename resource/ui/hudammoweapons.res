@@ -80,7 +80,7 @@
 		"tall"				"25"
 		"visible"			"1"
 		"enabled"			"1"
-		"textAlignment"		"center"
+		"textAlignment"		"east"
 		"labelText"			"%Ammo%"
 	}
 
@@ -97,7 +97,7 @@
 		"tall"				"25"
 		"visible"			"1"
 		"enabled"			"1"
-		"textAlignment"		"center"
+		"textAlignment"		"east"
 		"labelText"			"%Ammo%"
 		"pin_to_sibling"	"AmmoInClipExtra"
 	}

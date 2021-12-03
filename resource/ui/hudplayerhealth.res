@@ -127,7 +127,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"center"
+		"textAlignment"	"west"
 		"font"			"FontRegular14"
 	}
 
@@ -143,7 +143,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"labelText"			"%Health%"
-		"textAlignment"		"center"
+		"textAlignment"		"west"
 		"font"				"FontRegular14"
 		"fgcolor"			"ShadowBlack"
 		"pin_to_sibling"	"PlayerHealthValueExtra"

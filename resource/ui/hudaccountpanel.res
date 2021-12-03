@@ -8,7 +8,7 @@
 		"PositiveColor"			"0 170 127 255"
 		"NegativeColor"			"190 20 20 200"
 		"delta_lifetime"		"1.25"
-		"delta_item_font"		"FontBold22"
+		"delta_item_font"		"FontRegular14"
 	}
 
 	"AccountBG"
@@ -70,15 +70,15 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"FontBold22"
+		"font"					"FontRegular14"
 	}
 
 	"AccountValueShadow"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"AccountValueShadow"
-		"xpos"					"-2"
-		"ypos"					"-2"
+		"xpos"					"-1"
+		"ypos"					"-1"
 		"zpos"					"2"
 		"wide"					"50"
 		"tall"					"20"
@@ -91,7 +91,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"FontBold22"
+		"font"					"FontRegular14"
 		"fgcolor"				"ShadowBlack"
 		"pin_to_sibling"		"AccountValue"
 	}

@@ -18,31 +18,31 @@
 		
 		"RoundIndicatorPanel_kv"
 		{
-			"ypos"					"4"
-			"wide"					"3"
-			"tall"					"3"
+			"ypos"					"-1"
+			"wide"					"6"
+			"tall"					"6"
 			"zpos"					"7"
-			"image"					"../hud/comp_round_counter_dot_bg"
+			"image"					"replay/thumbnails/no_score"
 			"scaleimage"			"1"
 		}
 		
 		"RoundWinPanelRed_kv"
 		{
-			"ypos"					"0"
-			"wide"					"10"
-			"tall"					"10"
+			"ypos"					"-1"
+			"wide"					"6"
+			"tall"					"6"
 			"zpos"					"8"
-			"image"					"../hud/comp_round_counter_light_red"
+			"image"					"replay/thumbnails/red_score"
 			"scaleimage"			"1"
 		}
 		
 		"RoundWinPanelBlue_kv"
 		{
-			"ypos"					"0"
-			"wide"					"10"
-			"tall"					"10"
+			"ypos"					"-1"
+			"wide"					"6"
+			"tall"					"6"
 			"zpos"					"8"
-			"image"					"../hud/comp_round_counter_light_blue"
+			"image"					"replay/thumbnails/blu_score"
 			"scaleimage"			"1"
 		}
 	}

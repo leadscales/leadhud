@@ -118,7 +118,7 @@
 		"tall"				"25"
 		"visible"			"0"
 		"enabled"			"1"
-		"textAlignment"		"center"
+		"textAlignment"		"east"
 		"labelText"			"%Ammo%"
 		"pin_to_sibling"	"AmmoNoClip"
 	}

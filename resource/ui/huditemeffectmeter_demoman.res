@@ -97,35 +97,15 @@
 
 	"StreakIcon"
 	{
-		"ControlName"			"CExLabel"
+		"ControlName"			"CTFImagePanel"
 		"fieldName"				"StreakIcon"
-		"xpos"					"2"
-		"ypos"					"0"
+		"xpos"					"6"
+		"ypos"					"3"
 		"zpos"					"2"
-		"wide"					"20"
-		"tall"					"20"
+		"wide"					"16"
+		"tall"					"16"
 		"visible"				"0"
 		"enabled"				"0"
-		"labelText"				"K"
-		"textAlignment"			"west"
-		"font"					"CustomIcons"
-		"fgcolor_override"		"White"
-	}
-
-	"StreakIconShadow"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"StreakIconShadow"
-		"xpos"					"9999"
-		"ypos"					"9999"
-		"zpos"					"1"
-		"wide"					"20"
-		"tall"					"20"
-		"visible"				"0"
-		"enabled"				"0"
-		"labelText"				"K"
-		"textAlignment"			"west"
-		"font"					"CustomIcons"
-		"fgcolor_override"		"ShadowBlack"
+		"image"					"replay/thumbnails/killstreak_icon"
 	}
 }

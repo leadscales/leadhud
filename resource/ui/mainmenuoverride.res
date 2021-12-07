@@ -1079,7 +1079,7 @@
 		"defaultBgColor_override"	"GuiTransparentLighter"
 		"armedFgColor_override"		"GuiTextColorDarkest"
 		"armedBgColor_override"		"AccentLight"
-		"command"					"engine showconsole; clear; echo LeadHUD v0.4; echo Made by Lead; echo Based off of FlawHUD; echo Discord: Lead#0621 (Please report bugs)"
+		"command"					"engine showconsole; clear; echo LeadHUD v0.5; echo Made by Lead; echo Based off of FlawHUD"
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
 	}
@@ -1255,7 +1255,7 @@
 		"ControlName"					"EditablePanel"
 		"fieldName"						"BottomPanelLine"
 		"xpos"							"0"
-		"ypos"							"r70"
+		"ypos"							"r71"
 		"zpos"							"10"
 		"wide"							"f0"
 		"tall"							"1"

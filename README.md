@@ -1,18 +1,26 @@
-![Banner](https://cdn.discordapp.com/attachments/837979707751268372/914788518553849866/leadhud-logo-4-41.png)
+![Banner](./banner.png)
 
-# About:
+# About
 
 LeadHUD is a modern, functional HUD for Team Fortress 2, taking inspiration from modern FPS games.
 
 LeadHUD is still work in progress and will remain so for a while. Plans are to have almost every element customized and to fit in with the current style of the HUD.
 
-# Installation:
+# Installation
 
-Clone the repo with git or download the zip manually, extract it, and drag and drop the **leadhud-main** folder into the /tf/custom/ folder.
+Clone the repo with git or download the zip manually, extract it, and drag and drop the `leadhud-main` folder into the /tf/custom/ folder.
 
-# Crosshairs
+# Customization
 
-This HUD has custom crosshair support. By default, they act as a hitmarker, but can be changed to function like a normal crosshair. Check the hudlayout.res file for more info.
+### Crosshairs
+
+This HUD has custom crosshair support. By default, it acts as a hitmarker, but can be changed to function like a normal crosshair. Check the `hudlayout.res` file for more info.
+
+### Health and Ammo Position
+
+The files `hudammoweapons.res` and `hudplayerhealth.res` link to seperate files which have the health and ammo in different positions. You can choose between 3 different positions for each file. The options are Tactical, Center, and Corner.
+
+![Health and Ammo Position](./resource/ui/health-ammo-customization.png)
 
 # Streamer Mode
 
@@ -20,6 +28,10 @@ This HUD has streamer mode support, which hides player names and makes a cursory
 
 # Credits
 
-- CriticalFlaw : FlawHUD
+- CriticalFlaw : **FlawHUD**
 
-- JarateKing : HUD guides
+- JarateKing : **HUD guides**
+
+- Fraxinus : **Testing**
+
+- InkyTheFox : **Testing**

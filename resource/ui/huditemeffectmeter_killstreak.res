@@ -4,7 +4,7 @@
 {
 	"HudItemEffectMeter"
 	{
-		"xpos"				"2"
+		"xpos"				"56"
 		"ypos"				"r55"
 	}
 	
@@ -16,21 +16,15 @@
 	
 	"ItemEffectMeterCount"
 	{
-		"xpos"				"20"
+		"xpos"				"25"
 		"font"				"FontRegular20"
+		"fgcolor"			"White"
 	}
 
 	"StreakIcon"
 	{
 		"visible"			"1"
 		"enabled"			"1"
-		"labelText"			"\"
 	}
-
-	"StreakIconShadow"
-	{
-		"visible"			"1"
-		"enabled"			"1"
-		"labelText"			"\"
-	}
+	
 }

@@ -370,7 +370,7 @@
 				"fieldName"		"overhealbar"
 				"font"			"Default"
 				"xpos"			"0"
-				"ypos"			"19"
+				"ypos"			"3"
 				"zpos"			"6"
 				"wide"			"f0"
 				"tall"			"2"
@@ -413,7 +413,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"FontBold9"
+				"font"			"FontBold10"
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
 				"zpos"			"5"

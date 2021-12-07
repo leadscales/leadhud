@@ -16,18 +16,18 @@
 		"border"					"PanelBorder"
 		"bgcolor_override"			"DarkGrey"
 
-		"log_font_small"			"HudFontSmall"
-		"log_font_medium"			"HudFontMediumSmallSecondary"
-		"log_font_large"			"HudFontMediumSecondary"
+		"log_font_small"			"FontRegular14"
+		"log_font_medium"			"FontRegular14"
+		"log_font_large"			"FontRegular14"
 
-		"chat_color_default"		"255 255 255 255"
-		"chat_color_player_name"	"255 255 0 255"
-		"chat_color_chat_text"		"255 255 255 255"
+		"chat_color_default"		"192 192 255 255"
+		"chat_color_player_name"	"255 0 160 255"
+		"chat_color_chat_text"		"192 192 255 255"
 		"chat_color_party_event"	"Orange"
 
 		"collapsed_height"			"0"
 		"expanded_height"			"200"
-		"resize_time"				"0.3"
+		"resize_time"				"0.2"
 		"invalidate_parent_on_resize"	"0"
 	}
 
@@ -43,7 +43,7 @@
 		"visible"				"1"
 		"proportionaltoparent"	"1"
 		"RoundedCorners"		"0"
-		"font"					"FontRegular20"
+		"font"					"FontRegular14"
 		"paintbackground"		"0"
 		"pinCorner"				"2"
 		"autoResize"			"1"
@@ -93,7 +93,7 @@
 		"proportionaltoparent"	"1"
 		"bgcolor_override"		"DarkerGrey"
 		"RoundedCorners"		"0"
-		"font"					"HudFontSmallest"
+		"font"					"FontRegular14"
 		"alpha"					"0"
 		"mouseinputenabled"		"0"
 		"pinCorner"				"2"

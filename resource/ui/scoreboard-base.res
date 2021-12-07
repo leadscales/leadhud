@@ -93,6 +93,7 @@
 		"ypos"				"r66"
 		"zpos"				"500"		
 		"wide"				"f0"
+		"wide_minmode"		"0"
 		"tall"				"1"
 		"visible"			"1"
 		"enabled"			"1"
@@ -111,6 +112,7 @@
 		"ypos"				"r51"
 		"zpos"				"500"		
 		"wide"				"f0"
+		"wide_minmode"		"0"
 		"tall"				"1"
 		"visible"			"1"
 		"enabled"			"1"
@@ -262,7 +264,7 @@
 		"labelText"			"%blueteamplayercount%"
 		"textAlignment"		"center"
 		"xpos"				"0"
-		"ypos"				"-1"
+		"ypos"				"0"
 		"wide"				"p0.5"
 		"wide_minmode"		"0"
 		"tall"				"10"
@@ -370,7 +372,7 @@
 		"labelText"			"%redteamname%"
 		"textAlignment"		"center"
 		"xpos"				"0"
-		"ypos"				"-1"
+		"ypos"				"-2"
 		"ypos_minmode"		"-4"
 		"wide"				"p0.5"
 		"tall"				"25"
@@ -427,7 +429,7 @@
 		"labelText"			"%redteamplayercount%"
 		"textAlignment"		"center"
 		"xpos"				"0"
-		"ypos"				"-1"
+		"ypos"				"0"
 		"wide"				"p0.5"
 		"wide_minmode"		"0"
 		"tall"				"10"
@@ -464,10 +466,6 @@
 		"bgcolor_override"	"GuiTransparentMedium"
 		"PaintBackgroundType"	"0"
 		"border"	"RefractiveBorder"
-
-		// "pin_to_sibling"		"BlueBG"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 
 		if_mvm
 		{
@@ -514,10 +512,6 @@
 		"bgcolor_override"	"GuiTransparentMedium"
 		"PaintBackgroundType"	"0"
 		"border"	"RefractiveBorder"
-
-		// "pin_to_sibling"		"RedBG"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT"
 
 		if_mvm
 		{

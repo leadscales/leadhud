@@ -9,7 +9,7 @@
 		"ypos"				"c110"
 		"zpos"				"2"
 		"wide"				"126"
-		"tall"				"7"
+		"tall"				"8"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"

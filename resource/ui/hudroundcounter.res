@@ -73,7 +73,7 @@
 		"tall"					"20"
 		"scaleimage"			"1"
 		"proportionaltoparent"	"1"
-		"image"					"replay/thumbnails/time_panel"
+		"image"					"replay/thumbnails/neutral_time_panel"
 		"teambg_2"				"replay/thumbnails/red_time_panel"
 		"teambg_2_lodef"		"replay/thumbnails/red_time_panel"
 		"teambg_3"				"replay/thumbnails/blue_time_panel"

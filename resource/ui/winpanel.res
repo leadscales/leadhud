@@ -38,20 +38,6 @@
 			"fillcolor"			"Blue"
 		}
 
-		"BLUBG2"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"			"BLUBG2"
-			"xpos"				"0"
-			"ypos"				"18"
-			"zpos"				"-2"
-			"wide"				"100"
-			"tall"				"22"
-			"visible"			"1"
-			"enabled"			"1"
-			"fillcolor"			"DarkBlue"
-		}
-
 		"REDBG"
 		{
 			"ControlName"		"ImagePanel"
@@ -66,29 +52,15 @@
 			"fillcolor"			"Red"
 		}
 
-		"REDBG2"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"			"REDBG2"
-			"xpos"				"100"
-			"ypos"				"18"
-			"zpos"				"-2"
-			"wide"				"100"
-			"tall"				"22"
-			"visible"			"1"
-			"enabled"			"1"
-			"fillcolor"			"DarkRed"
-		}
-
 		"BlueTeamLabel"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"BlueTeamLabel"
-			"font"				"FontBold18"
+			"font"				"FontBold20"
 			"labelText"			"%blueteamname%"
 			"textAlignment"		"west"
 			"xpos"				"5"
-			"ypos"				"12"
+			"ypos"				"11"
 			"zpos"				"3"
 			"wide"				"56"
 			"tall"				"30"
@@ -96,36 +68,18 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-		}
-		"BlueTeamLabelShadow"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"			"BlueTeamLabelShadow"
-			"font"				"FontBold18"
-			"fgcolor"			"ShadowBlack"
-			"labelText"			"%blueteamname%"
-			"textAlignment"		"west"
-			"xpos"				"-2"
-			"ypos"				"-2"
-			"zpos"				"3"
-			"wide"				"56"
-			"tall"				"30"
-			"autoResize"		"0"
-			"pinCorner"			"0"
-			"visible"			"1"
-			"enabled"			"1"
-			"pin_to_sibling"	"BlueTeamLabel"
+			"fgcolor_override"	"GuiTextColorDarkest"
 		}
 
 		"BlueTeamScore"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"BlueTeamScore"
-			"font"				"FontBold37"
+			"font"				"FontBold20"
 			"labelText"			"%blueteamscore%"
 			"textAlignment"		"east"
 			"xpos"				"32"
-			"ypos"				"10"
+			"ypos"				"11"
 			"zpos"				"3"
 			"wide"				"65"
 			"tall"				"30"
@@ -133,25 +87,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-		}
-		"BlueTeamScoreShadow"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"			"BlueTeamScoreShadow"
-			"font"				"FontBold37"
-			"fgcolor"			"ShadowBlack"
-			"labelText"			"%blueteamscore%"
-			"textAlignment"		"east"
-			"xpos"				"-2"
-			"ypos"				"-2"
-			"zpos"				"3"
-			"wide"				"65"
-			"tall"				"30"
-			"autoResize"		"0"
-			"pinCorner"			"0"
-			"visible"			"1"
-			"enabled"			"1"
-			"pin_to_sibling"	"BlueTeamScore"
+			"fgcolor_override"	"GuiTextColorDarkest"
 		}
 
 		"BlueLeaderAvatar"
@@ -169,6 +105,7 @@
 			"scaleImage"		"1"
 			"color_outline"		"DarkBlue"
 		}
+
 		"BlueLeaderAvatarBG"
 		{
 			"ControlName"		"EditablePanel"
@@ -187,11 +124,11 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"RedTeamLabel"
-			"font"				"FontBold18"
+			"font"				"FontBold20"
 			"labelText"			"%redteamname%"
 			"textAlignment"		"east"
 			"xpos"				"138"
-			"ypos"				"12"
+			"ypos"				"11"
 			"zpos"				"3"
 			"wide"				"56"
 			"tall"				"30"
@@ -199,36 +136,18 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-		}
-		"RedTeamLabelShadow"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"			"RedTeamLabelShadow"
-			"font"				"FontBold18"
-			"fgcolor"			"ShadowBlack"
-			"labelText"			"%redteamname%"
-			"textAlignment"		"east"
-			"xpos"				"-2"
-			"ypos"				"-2"
-			"zpos"				"3"
-			"wide"				"56"
-			"tall"				"30"
-			"autoResize"		"0"
-			"pinCorner"			"0"
-			"visible"			"1"
-			"enabled"			"1"
-			"pin_to_sibling"	"RedTeamLabel"
+			"fgcolor_override"	"GuiTextColorDarkest"
 		}
 
 		"RedTeamScore"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"RedTeamScore"
-			"font"				"FontBold37"
+			"font"				"FontBold20"
 			"labelText"			"%redteamscore%"
 			"textAlignment"		"west"
 			"xpos"				"105"
-			"ypos"				"10"
+			"ypos"				"11"
 			"zpos"				"3"
 			"wide"				"65"
 			"tall"				"30"
@@ -236,25 +155,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-		}
-		"RedTeamScoreShadow"
-		{
-			"ControlName"		"CExLabel"
-			"fieldName"			"RedTeamScoreShadow"
-			"font"				"FontBold37"
-			"fgcolor"			"ShadowBlack"
-			"labelText"			"%redteamscore%"
-			"textAlignment"		"west"
-			"xpos"				"-2"
-			"ypos"				"-2"
-			"zpos"				"3"
-			"wide"				"65"
-			"tall"				"30"
-			"autoResize"		"0"
-			"pinCorner"			"0"
-			"visible"			"1"
-			"enabled"			"1"
-			"pin_to_sibling"	"RedTeamScore"
+			"fgcolor_override"	"GuiTextColorDarkest"
 		}
 
 		"RedLeaderAvatar"
@@ -313,9 +214,9 @@
 		"tall"			"125"
 		"visible"		"1"
 		"enabled"		"1"
-		"paintborder"	"0"
-		"bgcolor_override"		"HudBlack"
-		"PaintBackgroundType"	"2"
+		"bgcolor_override"	"GuiTransparentDark"
+		"PaintBackgroundType"	"0"
+		"border"			"RefractiveBorder"
 	}
 	"WinningTeamLabel"
 	{

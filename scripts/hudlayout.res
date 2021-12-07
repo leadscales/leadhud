@@ -826,7 +826,7 @@
 		"enabled"			"1"
 		"xpos"				"c-100"
 		"ypos"				"r145"
-		"ypos_minmode"		"r40"
+		"ypos_minmode"		"r37"
 		"zpos"				"10"
 		"wide"				"200"
 		"tall"				"152"

@@ -87,8 +87,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"PlayerHealthValueShadow"
-		"xpos"				"-1"
-		"ypos"				"-1"
+		"xpos"				"0"
+		"ypos"				"0"
 		"zpos"				"8"
 		"wide"				"50"
 		"tall"				"25"
@@ -96,7 +96,7 @@
 		"enabled"			"1"
 		"labelText"			"%Health%"
 		"textAlignment"		"west"
-		"font"				"FontRegular20"
+		"font"				"FontRegular20Blur"
 		"fgcolor"			"ShadowBlack"
 		"pin_to_sibling"	"PlayerHealthValue"
 	}

@@ -97,11 +97,16 @@
 		"tall"				"1"
 		"visible"			"1"
 		"enabled"			"1"
-		"image"				"replay/thumbnails/neutralbg"	
+		"image"				"replay/thumbnails/neutralbg_light"
 		"teambg_2"			"replay/thumbnails/redbg"
 		"teambg_2_lodef"	"replay/thumbnails/redbg"
 		"teambg_3"			"replay/thumbnails/bluebg"
 		"teambg_3_lodef"	"replay/thumbnails/bluebg"
+
+		if_mvm
+		{
+			"visible"			"0"
+		}
 	}
 
 	"TeamSplitter2"
@@ -116,11 +121,60 @@
 		"tall"				"1"
 		"visible"			"1"
 		"enabled"			"1"
-		"image"				"replay/thumbnails/neutralbg"	
+		"image"				"replay/thumbnails/neutralbg_light"
 		"teambg_2"			"replay/thumbnails/redbg"
 		"teambg_2_lodef"	"replay/thumbnails/redbg"
 		"teambg_3"			"replay/thumbnails/bluebg"
 		"teambg_3_lodef"	"replay/thumbnails/bluebg"
+
+		if_mvm
+		{
+			"visible"			"0"
+		}
+	}
+
+	"TeamSplitter3"
+	{
+		"ControlName"		"CTFImagePanel"
+		"fieldName"			"TeamSplitter3"
+		"xpos"				"0"
+		"ypos"				"r145"
+		"zpos"				"500"		
+		"wide"				"f0"
+		"wide_minmode"		"0"
+		"tall"				"1"
+		"visible"			"1"
+		"enabled"			"1"
+		"image"				"replay/thumbnails/neutralbg_light"
+		"teambg_2"			"replay/thumbnails/redbg"
+		"teambg_2_lodef"	"replay/thumbnails/redbg"
+		"teambg_3"			"replay/thumbnails/bluebg"
+		"teambg_3_lodef"	"replay/thumbnails/bluebg"
+
+		if_mvm
+		{
+			"visible"			"0"
+		}
+	}
+
+	"TeamSplitter4"
+	{
+		"ControlName"		"CTFImagePanel"
+		"fieldName"			"TeamSplitter4"
+		"xpos"				"0"
+		"ypos"				"95"
+		"zpos"				"500"		
+		"wide"				"f0"
+		"wide_minmode"		"0"
+		"tall"				"1"
+		"visible"			"1"
+		"enabled"			"1"
+		"image"				"replay/thumbnails/neutralbg_light"
+
+		if_mvm
+		{
+			"visible"			"0"
+		}
 	}
 
 	"BlueLine"
@@ -157,9 +211,9 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"BlueBG"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"60"
 		"ypos_minmode"		"143"
-		"zpos"				"-1"
+		"zpos"				"5"
 		"wide"				"p0.5"
 		"tall"				"35"
 		"visible"			"1"
@@ -181,10 +235,10 @@
 		"zpos"				"2"
 		"wide"				"p0.5"
 		"wide_minmode"		"0"
-		"tall"				"380"
+		"tall"				"241"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"GuiTransparentDark"
+		"bgcolor_override"	"GuiTransparentLight"
 		"PaintBackgroundType"	"0"
 		"border"	"RefractiveBorder"
 
@@ -208,6 +262,7 @@
 		"xpos"				"0"
 		"ypos"				"-1"
 		"ypos_minmode"		"-4"
+		"zpos"				"6"
 		"wide"				"p0.5"
 		"tall"				"25"
 		"autoResize"		"0"
@@ -236,7 +291,7 @@
 		"textAlignment"		"east"
 		"xpos"				"5"
 		"ypos"				"1"
-		"zpos"				"4"
+		"zpos"				"6"
 		"wide"				"80"
 		"tall"				"35"
 		"autoResize"		"0"
@@ -265,6 +320,7 @@
 		"textAlignment"		"center"
 		"xpos"				"0"
 		"ypos"				"0"
+		"zpos"				"6"
 		"wide"				"p0.5"
 		"wide_minmode"		"0"
 		"tall"				"10"
@@ -321,7 +377,7 @@
 		"fieldName"			"RedBG"
 		"xpos"				"0"
 		"ypos"				"0"
-		"zpos"				"-1"
+		"zpos"				"5"
 		"wide"				"p0.5"
 		"tall"				"35"
 		"visible"			"1"
@@ -347,10 +403,10 @@
 		"zpos"				"2"
 		"wide"				"p0.5"
 		"wide_minmode"		"0"
-		"tall"				"380"
+		"tall"				"241"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"GuiTransparentDark"
+		"bgcolor_override"	"GuiTransparentLight"
 		"PaintBackgroundType"	"0"
 		"border"	"RefractiveBorder"
 
@@ -372,7 +428,8 @@
 		"labelText"			"%redteamname%"
 		"textAlignment"		"center"
 		"xpos"				"0"
-		"ypos"				"-2"
+		"ypos"				"-1"
+		"zpos"				"6"
 		"ypos_minmode"		"-4"
 		"wide"				"p0.5"
 		"tall"				"25"
@@ -401,7 +458,7 @@
 		"textAlignment"		"west"
 		"xpos"				"5"
 		"ypos"				"1"
-		"zpos"				"4"
+		"zpos"				"6"
 		"wide"				"80"
 		"tall"				"35"
 		"autoResize"		"0"
@@ -430,6 +487,7 @@
 		"textAlignment"		"center"
 		"xpos"				"0"
 		"ypos"				"0"
+		"zpos"				"6"
 		"wide"				"p0.5"
 		"wide_minmode"		"0"
 		"tall"				"10"
@@ -553,8 +611,8 @@
 		"ControlName"		"SectionedListPanel"
 		"fieldName"			"BluePlayerList"
 		"xpos"				"-2"
-		"ypos"				"35"
-		"zpos"				"20"
+		"ypos"				"70"
+		"zpos"				"4"
 		"wide"				"p0.505"
 		"tall"				"400"
 		"wide_minmode"		"0"
@@ -576,9 +634,9 @@
 	{
 		"ControlName"		"SectionedListPanel"
 		"fieldName"			"RedPlayerList"
-		"xpos"				"p0.499"
-		"ypos"				"35"
-		"zpos"				"20"
+		"xpos"				"p0.498"
+		"ypos"				"70"
+		"zpos"				"4"
 		"wide"				"p0.505"
 		"tall"				"400"
 		"wide_minmode"		"0"
@@ -595,6 +653,7 @@
 			"visible"			"0"
 		}
 	}
+
 	"Spectators"
 	{
 		"ControlName"		"CExLabel"

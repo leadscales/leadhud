@@ -13,6 +13,11 @@
 		"enabled"			"1"
 		"progress_xpos"		"79"
 		"progress_wide"		"270"
+
+		"if_single_with_hills"
+		{
+			"tall"			"f0"
+		}
 	}
 
 	"LevelBar"
@@ -193,7 +198,7 @@
 			"fieldName"		"RecedeTime"
 			"font"			"FontRegular10"
 			"xpos"			"245"
-			"ypos"			"-2"
+			"ypos"			"1"
 			"zpos"			"2"
 			"wide"			"10"
 			"tall"			"10"
@@ -205,6 +210,16 @@
 			"textAlignment"	"east"
 			"dulltext"		"0"
 			"brighttext"	"0"
+
+			"if_single_with_hills_blue"
+			{
+				"ypos"			"1"
+			}
+
+			"if_single_with_hills_red"
+			{
+				"ypos"			"1"
+			}
 
 			"if_multiple_trains"
 			{
@@ -342,6 +357,18 @@
 			"image"			"replay/thumbnails/cart_icons/cart_backwards"
 			"scaleImage"	"1"
 
+			"if_single_with_hills_blue"
+			{
+				"ypos"			"-2"
+				"image"			"replay/thumbnails/cart_icons/cart_backwards_for_stupid_special_snowflake_maps_where_it_is_misaligned"
+			}
+
+			"if_single_with_hills_red"
+			{
+				"ypos"			"-2"
+				"image"			"replay/thumbnails/cart_icons/cart_backwards_for_stupid_special_snowflake_maps_where_it_is_misaligned"
+			}
+
 			"if_multiple_trains"
 			{
 				"xpos"		"15"
@@ -371,7 +398,7 @@
 			"fieldName"		"CapNumPlayers"
 			"font"			"FontRegular10"
 			"xpos"			"245"
-			"ypos"			"-2"
+			"ypos"			"1"
 			"zpos"			"20"
 			"wide"			"10"
 			"tall"			"10"
@@ -383,6 +410,16 @@
 			"textAlignment"	"east"
 			"dulltext"		"0"
 			"brighttext"	"0"
+
+			"if_single_with_hills_blue"
+			{
+				"ypos"			"1"
+			}
+
+			"if_single_with_hills_red"
+			{
+				"ypos"			"1"
+			}
 
 			"if_multiple_trains"
 			{
@@ -417,6 +454,18 @@
 			"labelText"		""
 			"image"			"replay/thumbnails/cart_icons/cart_blocked"
 			"scaleImage"	"1"
+
+			"if_single_with_hills_blue"
+			{
+				"ypos"			"-2"
+				"image"			"replay/thumbnails/cart_icons/cart_blocked_for_stupid_special_snowflake_maps_where_it_is_misaligned"
+			}
+
+			"if_single_with_hills_red"
+			{
+				"ypos"			"-2"
+				"image"			"replay/thumbnails/cart_icons/cart_blocked_for_stupid_special_snowflake_maps_where_it_is_misaligned"
+			}
 
 			"if_multiple_trains"
 			{

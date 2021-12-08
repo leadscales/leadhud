@@ -22,6 +22,7 @@ sv_unlockedchapters 99
 cl_hud_minmode 0
 vgui_cache_res_files 0
 hud_reloadscheme
-
-// Streamer mode alias
 alias "streamer_mode" "toggle cl_hud_minmode; toggle mat_antialias 0 1; wait 500; toggle mat_antialias 0 1; hud_reloadscheme; wait 500; play ui/streamer_mode.wav"
+
+// Startup Sound
+wait 100; play ui/leadhud.wav

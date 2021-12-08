@@ -10,9 +10,9 @@
 		"tall"					"67"
 		"visible"				"0"
 		"enabled"				"1"
-		"paintborder"			"0"
-		"bgcolor_override"		"HudBlack"
-		"PaintBackgroundType"	"2"
+		"bgcolor_override"		"GuiTransparentDark"
+		"PaintBackgroundType"	"0"
+		"border"				"RefractiveBorder"
 
 		"PassedIcon"
 		{
@@ -79,9 +79,9 @@
 		"tall"					"144"
 		"visible"				"0"
 		"enabled"				"1"
-		"paintborder"			"0"
-		"bgcolor_override"		"HudBlack"
-		"PaintBackgroundType"	"2"
+		"bgcolor_override"		"GuiTransparentDark"
+		"PaintBackgroundType"	"0"
+		"border"				"RefractiveBorder"
 
 		"Header"
 		{
@@ -414,9 +414,9 @@
 		"tall"					"67"
 		"visible"				"0"
 		"enabled"				"1"
-		"paintborder"			"0"
-		"bgcolor_override"		"HudBlack"
-		"PaintBackgroundType"	"2"
+		"bgcolor_override"		"GuiTransparentDark"
+		"PaintBackgroundType"	"0"
+		"border"				"RefractiveBorder"
 
 		"FailedIcon"
 		{
@@ -482,9 +482,9 @@
 		"tall"					"67"
 		"visible"				"0"
 		"enabled"				"1"
-		"paintborder"			"0"
-		"bgcolor_override"		"HudBlack"
-		"PaintBackgroundType"	"2"
+		"bgcolor_override"		"GuiTransparentDark"
+		"PaintBackgroundType"	"0"
+		"border"				"RefractiveBorder"
 
 		"FailedIcon"
 		{
@@ -554,7 +554,7 @@
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
 		"paintborder"			"0"
-		"bgcolor_override"		"27 27 27 255"
+		"bgcolor_override"		"GuiColorDark"
 		"PaintBackground"		"1"
 		"PaintBackgroundType"	"2"
 

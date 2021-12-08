@@ -29,7 +29,8 @@
 		{
 			"PaintBackgroundType"	"0"
 			"paintborder"			"1"
-			"bgcolor_override"		"DarkGrey"
+			"paintbackground"		"1"
+			"border"				"NoBorder"
 
 			"model_xpos"		"0"
 			"model_center_y"	"1"

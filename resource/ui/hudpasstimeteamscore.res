@@ -22,8 +22,8 @@
 		"zpos"			"1"
 		"wide"			"50"
 		"tall"			"22"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"Blue"
 	}
 
@@ -36,8 +36,8 @@
 		"zpos"			"0"
 		"wide"			"50"
 		"tall"			"21"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"DarkBlue"
 	}
 
@@ -50,8 +50,8 @@
 		"zpos"			"1"
 		"wide"			"50"
 		"tall"			"22"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"Red"
 	}
 
@@ -64,8 +64,8 @@
 		"zpos"			"0"
 		"wide"			"50"
 		"tall"			"23"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"DarkRed"
 	}
 
@@ -90,7 +90,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%bluescore%"
 		"font"			"FontBold22"
-		"fgcolor"		"White"
+		"fgcolor"		"TeamColorBlue"
 	}
 
 	"BlueScoreShadow"
@@ -102,8 +102,8 @@
 		"zpos"			"7"
 		"wide"			"50"
 		"tall"			"35"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"textAlignment"	"center"
 		"labelText"		"%bluescore%"
 		"font"			"FontBold22"
@@ -125,7 +125,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
 		"font"			"FontBold22"
-		"fgcolor"		"White"
+		"fgcolor"		"TeamColorRed"
 	}
 
 	"RedScoreShadow"
@@ -137,8 +137,8 @@
 		"zpos"			"7"
 		"wide"			"50"
 		"tall"			"35"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
 		"font"			"FontBold22"
@@ -179,16 +179,18 @@
 
 		"PlayingToBG"
 		{
-			"ControlName"	"ImagePanel"
+			"ControlName"	"EditablePanel"
 			"fieldName"		"PlayingToBG"
-			"xpos"			"c-40"
+			"xpos"			"cs-0.5"
 			"ypos"			"r24"
-			"zpos"			"3"
+			"zpos"			"1"
 			"wide"			"80"
 			"tall"			"24"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"Hudblack"
+			"bgcolor_override"	"GuiTransparentDark"
+			"PaintBackgroundType"	"0"
+			"border"			"RefractiveBorder"
 		}
 	}
 }

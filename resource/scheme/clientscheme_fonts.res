@@ -122,7 +122,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"9"
+				"tall"			"10"
 				"weight"		"0"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -238,7 +238,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"9"
+				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -248,7 +248,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"8"
+				"tall"			"10"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -823,7 +823,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"9"
+				"tall"			"10"
 				"weight"		"0"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -834,7 +834,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"9"
+				"tall"			"10"
 				"weight"		"0"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -953,7 +953,7 @@ Scheme
 			"1"
 			{
 				"name"			"Verdana"
-				"tall"			"8"
+				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -965,7 +965,7 @@ Scheme
 			"1"
 			{
 				"name"			"Verdana"
-				"tall"			"9"
+				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -976,7 +976,7 @@ Scheme
 			"1"
 			{
 				"name"			"Verdana"
-				"tall"			"8"
+				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -987,7 +987,7 @@ Scheme
 			"1"
 			{
 				"name"			"Verdana"
-				"tall"			"8"
+				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -1289,7 +1289,7 @@ Scheme
 			"1"
 			{
 				"name"			"Verdana"
-				"tall"			"6"
+				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -1300,7 +1300,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"8"
+				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -1311,7 +1311,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"9"
+				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
 				"antialias"		"1"
@@ -1512,7 +1512,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"7"
+				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -1702,7 +1702,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"8"
+				"tall"			"10"
 				"weight"		"500"
 				"range"			"0x0000 0x017F"
 				"TextColor"		"Black"
@@ -1956,7 +1956,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"8"
+				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -2000,7 +2000,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"8"
+				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -2011,7 +2011,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"8"
+				"tall"			"10"
 				"antialias"		"1"
 				"weight"		"500"
 			}
@@ -2055,7 +2055,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"9"
+				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias"		"1"
@@ -2066,7 +2066,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"9"
+				"tall"			"10"
 				"weight"		"500"
 				"blur"			"3"
 				"additive"		"1"
@@ -2078,7 +2078,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"7"
+				"tall"			"10"
 				"weight"		"0"
 				"additive"		"1"
 				"antialias" 	"1"
@@ -2594,7 +2594,7 @@ Scheme
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"9"
+				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"

@@ -78,7 +78,7 @@
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			""
-		"image"				"../hud/cart_point_blue"
+		"image"				"replay/thumbnails/cart_icons/home_point_blue"
 		"scaleImage"		"1"
 
 		"if_team_red"
@@ -88,13 +88,13 @@
 
 		"if_single_with_hills_blue"
 		{
-			"image"			"../hud/cart_point_blue"
+			"image"			"replay/thumbnails/cart_icons/home_point_blue"
 			"ypos"			"r24"
 		}
 
 		"if_single_with_hills_red"
 		{
-			"image"			"../hud/cart_point_red"
+			"image"			"replay/thumbnails/cart_icons/home_point_red"
 			"ypos"			"r24"
 		}
 
@@ -119,12 +119,12 @@
 
 		"if_multiple_trains_red"
 		{
-			"image"			"../hud/cart_point_red"
+			"image"			"replay/thumbnails/cart_icons/home_point_red"
 		}
 
 		"if_multiple_trains_blue"
 		{
-			"image"			"../hud/cart_point_blue"
+			"image"			"replay/thumbnails/cart_icons/home_point_blue"
 		}
 	}
 
@@ -328,18 +328,18 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"Speed_Backwards"
-			"xpos"			"245"
-			"ypos"			"2"
+			"xpos"			"250"
+			"ypos"			"0"
 			"zpos"			"5"
-			"wide"			"0"
-			"tall"			"0"
+			"wide"			"8"
+			"tall"			"8"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		""
-			"image"			"../hud/cart_arrow_left"
+			"image"			"replay/thumbnails/cart_icons/cart_backwards"
 			"scaleImage"	"1"
 
 			"if_multiple_trains"
@@ -386,17 +386,17 @@
 
 			"if_multiple_trains"
 			{
-				"xpos"		"10"
+				"xpos"		"16"
 			}
 
 			"if_multiple_trains_top"
 			{
-				"ypos"		"67"
+				"ypos"		"63"
 			}
 
 			"if_multiple_trains_bottom"
 			{
-				"ypos"		"67"
+				"ypos"		"63"
 			}
 		}
 
@@ -404,33 +404,33 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"Blocked"
-			"xpos"			"235"
-			"ypos"			"2"
-			"zpos"			"2"
-			"wide"			"7"
-			"tall"			"7"
+			"xpos"			"250"
+			"ypos"			"0"
+			"zpos"			"9"
+			"wide"			"8"
+			"tall"			"8"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		""
-			"image"			"../hud/cart_blocked"
+			"image"			"replay/thumbnails/cart_icons/cart_blocked"
 			"scaleImage"	"1"
 
 			"if_multiple_trains"
 			{
-				"xpos"		"15"
+				"xpos"		"20"
 			}
 
 			"if_multiple_trains_top"
 			{
-				"ypos"		"68"
+				"ypos"		"65"
 			}
 
 			"if_multiple_trains_bottom"
 			{
-				"ypos"		"68"
+				"ypos"		"65"
 			}
 		}
 

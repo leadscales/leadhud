@@ -481,11 +481,10 @@
 			"default"			"1"
 			"actionsignallevel" "2"
 			"paintbackground"	"1"
-			"paintborder"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultBgColor_override"	"GuiTransparentLighter"
+			"defaultBgColor_override"	"Transparent"
 			"armedFgColor_override"		"GuiTextColorDarkest"
 			"armedBgColor_override"		"AccentLight"
 		}

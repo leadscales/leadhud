@@ -138,7 +138,7 @@
 		"ControlName"		"CTFImagePanel"
 		"fieldName"			"TeamSplitter3"
 		"xpos"				"0"
-		"ypos"				"r145"
+		"ypos"				"r128"
 		"zpos"				"500"		
 		"wide"				"f0"
 		"wide_minmode"		"0"
@@ -146,10 +146,6 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"image"				"replay/thumbnails/neutralbg_light"
-		"teambg_2"			"replay/thumbnails/redbg"
-		"teambg_2_lodef"	"replay/thumbnails/redbg"
-		"teambg_3"			"replay/thumbnails/bluebg"
-		"teambg_3_lodef"	"replay/thumbnails/bluebg"
 
 		if_mvm
 		{
@@ -235,7 +231,7 @@
 		"zpos"				"2"
 		"wide"				"p0.5"
 		"wide_minmode"		"0"
-		"tall"				"241"
+		"tall"				"258"
 		"visible"			"1"
 		"enabled"			"1"
 		"bgcolor_override"	"GuiTransparentLight"
@@ -403,7 +399,7 @@
 		"zpos"				"2"
 		"wide"				"p0.5"
 		"wide_minmode"		"0"
-		"tall"				"241"
+		"tall"				"258"
 		"visible"			"1"
 		"enabled"			"1"
 		"bgcolor_override"	"GuiTransparentLight"
@@ -611,7 +607,7 @@
 		"ControlName"		"SectionedListPanel"
 		"fieldName"			"BluePlayerList"
 		"xpos"				"-2"
-		"ypos"				"70"
+		"ypos"				"87"
 		"zpos"				"4"
 		"wide"				"p0.505"
 		"tall"				"400"
@@ -630,12 +626,13 @@
 			"visible"			"0"
 		}
 	}
+
 	"RedPlayerList"
 	{
 		"ControlName"		"SectionedListPanel"
 		"fieldName"			"RedPlayerList"
 		"xpos"				"p0.498"
-		"ypos"				"70"
+		"ypos"				"87"
 		"zpos"				"4"
 		"wide"				"p0.505"
 		"tall"				"400"

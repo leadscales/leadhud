@@ -600,14 +600,15 @@
 		}
 	}
 
-	
-
+	// Apparently the player lists' position on the scoreboard change based on the current resolution, WTF?
+	// I'm making it positioned correctly for 1920x1080 since thats what most people use
+	// There will be overlapping on other resolutions but its fine I guess?
 	"BluePlayerList"
 	{
 		"ControlName"		"SectionedListPanel"
 		"fieldName"			"BluePlayerList"
 		"xpos"				"-2"
-		"ypos"				"87"
+		"ypos"				"84"
 		"zpos"				"4"
 		"wide"				"p0.505"
 		"tall"				"400"
@@ -618,7 +619,7 @@
 		"tabPosition"		"0"
 		"autoresize"		"3"
 		"linespacing"		"16"
-		"fgcolor_override"			"Blue"
+		"fgcolor_override"	"Blue"
 		"bgcolor_override"	"Blank"
 
 		if_mvm
@@ -632,7 +633,7 @@
 		"ControlName"		"SectionedListPanel"
 		"fieldName"			"RedPlayerList"
 		"xpos"				"p0.498"
-		"ypos"				"87"
+		"ypos"				"84"
 		"zpos"				"4"
 		"wide"				"p0.505"
 		"tall"				"400"
@@ -644,6 +645,7 @@
 		"autoresize"		"3"
 		"linespacing"		"16"
 		"textcolor"			"red"
+		"bgcolor_override"	"Blank"
 
 		if_mvm
 		{

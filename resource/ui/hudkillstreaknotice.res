@@ -13,8 +13,9 @@
 		"autoResize"			"0"
 		"visible"				"1"
 		"enabled"				"1"
-		"bgcolor_override"		"HudBlack"
-		"PaintBackgroundType"	"2"
+		"bgcolor_override"		"GuiTransparentMedium"
+		"PaintBackgroundType"	"0"
+		"border"				"RefractiveBorder"
 	}
 
 	"SplashLabel"

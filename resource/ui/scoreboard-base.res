@@ -607,7 +607,7 @@
 		"ControlName"		"SectionedListPanel"
 		"fieldName"			"BluePlayerList"
 		"xpos"				"-2"
-		"ypos"				"84"
+		"ypos"				"87"
 		"zpos"				"4"
 		"wide"				"p0.505"
 		"tall"				"400"
@@ -632,7 +632,7 @@
 		"ControlName"		"SectionedListPanel"
 		"fieldName"			"RedPlayerList"
 		"xpos"				"p0.498"
-		"ypos"				"84"
+		"ypos"				"87"
 		"zpos"				"4"
 		"wide"				"p0.505"
 		"tall"				"400"
@@ -657,9 +657,10 @@
 		"fieldName"			"Spectators"
 		"font"				"FontRegular10"
 		"labelText"			"%spectators%"
+		"textinsety"		"-2"
 		"textAlignment"		"center"
 		"xpos"				"0"
-		"ypos"				"r85"
+		"ypos"				"r100"
 		"zpos"				"4"
 		"wide"				"f0"
 		"wide_minmode"		"0"
@@ -668,10 +669,6 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-
-		// "pin_to_sibling"		"StatsBG"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 
 		if_mvm
 		{

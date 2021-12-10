@@ -2,17 +2,18 @@
 {
 	"TimePanelBG"
 	{
-		"ControlName"		"EditablePanel"
-		"fieldName"			"TimePanelBG"
-		"xpos"				"15"
-		"ypos"				"-10"
-		"zpos"				"2"
-		"wide"				"50"
-		"tall"				"28"
-		"visible"			"1"
-		"enabled"			"1"
-		"bgcolor_override"	"HudBlack"
-		"PaintBackgroundType"	"2"
+		"ControlName"			"EditablePanel"
+		"fieldName"				"TimePanelBG"
+		"xpos"					"15"
+		"ypos"					"-10"
+		"zpos"					"2"
+		"wide"					"50"
+		"tall"					"28"
+		"visible"				"1"
+		"enabled"				"1"
+		"bgcolor_override"		"GuiTransparentMedium"
+		"PaintBackgroundType"	"0"
+		"border"				"RefractiveBorder"
 
 		if_match
 		{

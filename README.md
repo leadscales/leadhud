@@ -8,7 +8,7 @@ LeadHUD is still work in progress and will remain so for a while. Plans are to h
 
 # Installation
 
-Clone the repo with git or download the zip manually, extract it, and drag and drop the `leadhud-main` folder into the /tf/custom/ folder.
+Clone the repo with git or download the zip manually, extract it, and drag and drop the `leadhud-main` folder into the `/tf/custom/` folder.
 
 # Customization
 
@@ -32,6 +32,8 @@ This HUD has streamer mode support, which hides player names and makes a cursory
 
 - JarateKing : **HUD guides**
 
-- Fraxinus : **Testing**
+- Fraxinus : **Extensive Testing**
 
 - InkyTheFox : **Testing**
+
+- [VALVE] Twilight Sparkle : **Testing**

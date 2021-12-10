@@ -706,7 +706,7 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"VersionLabel"
 		"font"				"FontBold10"
-		"labelText"			"LeadHUD v0.3"
+		"labelText"			"LeadHUD v0.5"
 		"labelText_minmode"	"STREAMER MODE ENABLED"
 		"xpos"				"9999"
 		"ypos"				"r12"

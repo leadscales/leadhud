@@ -139,13 +139,14 @@
 		"fieldName"			"TeamSplitter3"
 		"xpos"				"0"
 		"ypos"				"r128"
+		"ypos_minmode"		"r178"
 		"zpos"				"500"		
 		"wide"				"f0"
-		"wide_minmode"		"0"
 		"tall"				"1"
 		"visible"			"1"
 		"enabled"			"1"
 		"image"				"replay/thumbnails/neutralbg_light"
+		"image_minmode"		"replay/thumbnails/negativebg"
 
 		if_mvm
 		{
@@ -159,13 +160,14 @@
 		"fieldName"			"TeamSplitter4"
 		"xpos"				"0"
 		"ypos"				"95"
+		"ypos_minmode"		"177"
 		"zpos"				"500"		
 		"wide"				"f0"
-		"wide_minmode"		"0"
 		"tall"				"1"
 		"visible"			"1"
 		"enabled"			"1"
 		"image"				"replay/thumbnails/neutralbg_light"
+		"image_minmode"		"replay/thumbnails/negativebg"
 
 		if_mvm
 		{

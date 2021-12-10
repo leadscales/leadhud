@@ -253,6 +253,17 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"CartNumbers"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"7"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
+
 
 		// DEFAULT
 		"Default"

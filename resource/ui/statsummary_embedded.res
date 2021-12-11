@@ -42,6 +42,47 @@
 		"fieldName"			"MapType"
 		"xpos"				"9999"
 	}
+
+	"NoticeLabel"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"			"NoticeLabel"
+		"xpos"				"cs-0.5"
+		"ypos"				"260"
+		"wide"				"400"
+		"tall"				"50"
+		"textAlignment"		"center"
+		"font"				"FontRegular20"
+		"labelText"			"LeadHUD v0.5"
+	}
+
+	"NoticeLabel2"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"			"NoticeLabel2"
+		"xpos"				"cs-0.5"
+		"ypos"				"275"
+		"wide"				"f0"
+		"tall"				"50"
+		"textAlignment"		"center"
+		"font"				"FontRegular10"
+		"fgcolor_override"	"GuiTextColorMedium"
+		"labelText"			"LeadHUD is in active development! Some things may be broken and some elements may be unchanged."
+	}
+
+	"NoticeLabel3"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"			"NoticeLabel3"
+		"xpos"				"cs-0.5"
+		"ypos"				"285"
+		"wide"				"f0"
+		"tall"				"50"
+		"textAlignment"		"center"
+		"font"				"FontRegular10"
+		"fgcolor_override"	"GuiTextColorMedium"
+		"labelText"			"Please check the official LeadHUD Github repo and the HUDS.TF page regularly for updates and bugfixes."
+	}
 	
 	"StatData"
 	{

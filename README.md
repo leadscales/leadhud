@@ -6,6 +6,10 @@ LeadHUD is a modern, functional HUD for Team Fortress 2, taking inspiration from
 
 LeadHUD is still work in progress and will remain so for a while. Plans are to have almost every element customized and to fit in with the current style of the HUD.
 
+# Notice
+
+`-dxlevel 90` or higher is required for this HUD to work properly. Anything lower will cause extreme visual issues and pull the hud below usability. If you do not know what this means, you probably are using `-dxlevel 90` or higher.
+
 # Installation
 
 Clone the repo with git or download the zip manually, extract it, and drag and drop the `leadhud-main` folder into the `/tf/custom/` folder.

@@ -356,6 +356,20 @@
 		"proportionaltoparent" "1"
 	}
 
+	"DXWarning"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"DXWarning"
+		"xpos"			"cs-0.5"
+		"ypos"			"cs-0.5"
+		"wide"			"200"
+		"tall"			"100"
+		"image"			"replay/thumbnails/dx"
+		"scaleImage"	"1"
+		"visible"		"1"
+		"enabled"		"1"
+	}
+
 	"RankBorder"
 	{
 		"ControlName"	"EditablePanel"
@@ -1079,6 +1093,46 @@
 		"armedFgColor_override"		"GuiTextColorDarkest"
 		"armedBgColor_override"		"AccentLight"
 		"command"					"engine showconsole; clear; echo LeadHUD v0.5; echo Made by Lead; echo Based off of FlawHUD"
+		"sound_depressed"			"UI/buttonclick.wav"
+		"sound_released"			"UI/buttonclickrelease.wav"
+	}
+
+	"HudsTF"
+	{
+		"ControlName"				"URLLabel"
+		"fieldName"					"HudsTF"
+		"xpos"						"rp0.15"
+		"ypos"						"410"
+		"wide"						"p0.075"
+		"tall"						"10"
+		"labelText"					"HUDS.TF"
+		"font"						"FontRegular10"
+		"textAlignment"				"center"
+		"paintborder"				"0"
+		"defaultBgColor_override"	"GuiTransparentLighter"
+		"armedFgColor_override"		"GuiTextColorDarkest"
+		"armedBgColor_override"		"AccentLight"
+		"urlText"					"https://huds.tf/site/s-LeadHUD"
+		"sound_depressed"			"UI/buttonclick.wav"
+		"sound_released"			"UI/buttonclickrelease.wav"
+	}
+
+	"Github"
+	{
+		"ControlName"				"URLLabel"
+		"fieldName"					"Github"
+		"xpos"						"rp0.075"
+		"ypos"						"410"
+		"wide"						"p0.075"
+		"tall"						"10"
+		"labelText"					"GITHUB"
+		"font"						"FontRegular10"
+		"textAlignment"				"center"
+		"paintborder"				"0"
+		"defaultBgColor_override"	"GuiTransparentLighter"
+		"armedFgColor_override"		"GuiTextColorDarkest"
+		"armedBgColor_override"		"AccentLight"
+		"urlText"					"https://github.com/p3tr1ch0r/LeadHUD/"
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
 	}

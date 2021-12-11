@@ -78,8 +78,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCountShadow"
-		"xpos"					"9999"
-		"ypos"					"9999"
+		"xpos"					"0"
+		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"55"
 		"tall"					"20"
@@ -91,8 +91,9 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"FontRegular20"
+		"font"					"FontRegular20Blur"
 		"fgcolor"				"ShadowBlack"
+		"pin_to_sibling"		"ItemEffectMeterCount"
 	}
 
 	"StreakIcon"

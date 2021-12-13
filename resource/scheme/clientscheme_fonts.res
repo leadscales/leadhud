@@ -17,6 +17,19 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"FontBold50Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"50"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
+
 		"FontBold37"
 		{
 			"1"
@@ -28,6 +41,19 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"FontBold37Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"37"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
+
 		"FontBold22"
 		{
 			"1"
@@ -39,18 +65,19 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		"FontBold20Outline"
+		"FontBold22Blur"
 		{
 			"1"
 			{
 				"name"			"Purista-SemiBold"
-				"tall"			"20"
+				"tall"			"22"
 				"weight"		"0"
 				"additive"		"0"
 				"antialias"		"1"
-				"outline"		"1"
+				"blur"			"1"
 			}
 		}
+
 		"FontBold20"
 		{
 			"1"
@@ -62,6 +89,19 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"FontBold20Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"20"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
+
 		"FontBold18"
 		{
 			"1"
@@ -73,6 +113,19 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"FontBold18Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"18"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"			"1"
+			}
+		}
+
 		"FontBold16"
 		{
 			"1"
@@ -84,6 +137,19 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"FontBold16Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"16"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"			"1"
+			}
+		}
+
 		"FontBold14"
 		{
 			"1"
@@ -95,6 +161,19 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"FontBold14Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"14"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"			"1"
+			}
+		}
+
 		"FontBold12"
 		{
 			"1"
@@ -106,6 +185,19 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"FontBold12Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"12"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"			"1"
+			}
+		}
+
 		"FontBold10"
 		{
 			"1"
@@ -117,6 +209,19 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"FontBold10Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"10"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"			"1"
+			}
+		}
+
 		"FontBold9"
 		{
 			"1"
@@ -129,6 +234,8 @@ Scheme
 				"outline"		"1"
 			}
 		}
+
+		//----------------------------------------------------------------
 
 		"FontRegular37"
 		{
@@ -151,6 +258,7 @@ Scheme
 				"blur"			"1"
 			}
 		}
+
 		"FontRegular20"
 		{
 			"1"
@@ -172,6 +280,7 @@ Scheme
 				"blur"			"1"
 			}
 		}
+
 		"FontRegular15"
 		{
 			"1"
@@ -193,6 +302,7 @@ Scheme
 				"blur"			"1"
 			}
 		}
+
 		"FontRegular14"
 		{
 			"1"
@@ -203,6 +313,18 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"FontRegular14Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"14"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"			"1"
+			}
+		}
+
 		"FontRegular12"
 		{
 			"1"
@@ -213,6 +335,18 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"FontRegular12Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"12"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"			"1"
+			}
+		}
+
 		"FontRegular11"
 		{
 			"1"
@@ -223,6 +357,18 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"FontRegular11Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"11"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"			"1"
+			}
+		}
+
 		"FontRegular10"
 		{
 			"1"
@@ -233,6 +379,18 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"FontRegular10Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"10"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"			"1"
+			}
+		}
+
 		"FontRegular9"
 		{
 			"1"
@@ -243,6 +401,18 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"FontRegular9Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"10"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
+
 		"FontRegular8"
 		{
 			"1"
@@ -253,6 +423,18 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"FontRegular8Blur"
+		{
+			"1"
+			{
+				"name"			"Purista-SemiBold"
+				"tall"			"10"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"			"1"
+			}
+		}
+
 		"CartNumbers"
 		{
 			"1"

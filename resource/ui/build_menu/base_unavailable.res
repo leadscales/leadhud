@@ -94,7 +94,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"CostLabel"
-		"font"				"FontBold20"
+		"font"				"FontRegular20"
 		"fgcolor"			"NeonRed"
 		"xpos"				"10"
 		"ypos"				"18"
@@ -113,10 +113,10 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"CostLabelShadow"
-		"font"				"FontBold20"
+		"font"				"FontRegular20Blur"
 		"fgcolor"			"ShadowBlack"
-		"xpos"				"-1"
-		"ypos"				"-1"
+		"xpos"				"0"
+		"ypos"				"0"
 		"zpos"				"3"
 		"wide"				"34"
 		"tall"				"34"

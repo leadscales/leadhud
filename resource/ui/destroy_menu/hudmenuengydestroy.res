@@ -38,10 +38,10 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabelDropshadow"
-		"font"				"FontBold22"
+		"font"				"FontBold22Blur"
 		"fgcolor"			"ShadowBlack"
-		"xpos"				"-2"
-		"ypos"				"-2"
+		"xpos"				"0"
+		"ypos"				"0"
 		"zpos"				"2"
 		"wide"				"125"
 		"tall"				"22"
@@ -231,7 +231,8 @@
 		"tall"				"110"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"HudBlack"
-		"PaintBackgroundType"	"2"
+		"bgcolor_override"	"GuiTransparentDark"
+		"PaintBackgroundType"	"0"
+		"border"			"RefractiveBorder"
 	}
 }

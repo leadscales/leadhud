@@ -91,10 +91,10 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"CostLabelShadow"
-		"font"				"FontBold20"
+		"font"				"FontBold20Blur"
 		"fgcolor"			"ShadowBlack"
-		"xpos"				"-2"
-		"ypos"				"-2"
+		"xpos"				"0"
+		"ypos"				"0"
 		"zpos"				"3"
 		"wide"				"34"
 		"tall"				"34"

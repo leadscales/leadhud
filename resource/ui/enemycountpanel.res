@@ -80,10 +80,10 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"EnemyCountShadow"
-		"font"				"FontBold12"
+		"font"				"FontBold12Blur"
 		"fgcolor"			"ShadowBlack"
-		"xpos"				"1"
-		"ypos"				"18"
+		"xpos"				"0"
+		"ypos"				"17"
 		"zpos"				"3"
 		"wide"				"20"
 		"tall"				"14"

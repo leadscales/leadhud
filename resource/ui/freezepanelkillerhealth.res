@@ -60,15 +60,15 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TargetHealthShadow"
-		"xpos"			"1"
-		"ypos"			"6"
+		"xpos"			"0"
+		"ypos"			"5"
 		"zpos"			"5"
 		"wide"			"44"
 		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"
-		"font"			"FontBold22"
+		"font"			"FontBold22Blur"
 		"fgcolor"		"ShadowBlack"
 		"labeltext"		"%Health%"
 	}

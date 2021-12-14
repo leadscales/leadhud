@@ -81,7 +81,7 @@
 		"textAlignment"		"center"
 		"font"				"FontRegular10"
 		"fgcolor_override"	"GuiTextColorMedium"
-		"labelText"			"Please check the official LeadHUD Github repo and the HUDS.TF page regularly for updates and bugfixes."
+		"labelText"			"Please check the official LeadHUD Github repo regularly for updates and bugfixes."
 	}
 	
 	"StatData"

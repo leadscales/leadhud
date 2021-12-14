@@ -1112,7 +1112,7 @@
 		"defaultBgColor_override"	"GuiTransparentLighter"
 		"armedFgColor_override"		"GuiTextColorDarkest"
 		"armedBgColor_override"		"AccentLight"
-		"urlText"					"https://huds.tf/site/s-LeadHUD"
+		"urlText"					"https://www.youtube.com/watch?v=1kTvM7vZmDw"
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
 	}

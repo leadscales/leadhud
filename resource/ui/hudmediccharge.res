@@ -1,2 +1,2 @@
-#base "#hudmediccharge-bottom.res"
-#base "hudmediccharge-center.res"
+#base "hudmediccharge-bottom.res"
+#base "#hudmediccharge-center.res"

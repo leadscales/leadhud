@@ -8,7 +8,7 @@
 		"xpos"				"c-64"
 		"ypos"				"c110"
 		"zpos"				"2"
-		"wide"				"126"
+		"wide"				"128"
 		"tall"				"8"
 		"autoResize"		"0"
 		"pinCorner"			"0"

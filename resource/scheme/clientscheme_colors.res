@@ -19,6 +19,8 @@ Scheme
 		"TeamColorRedDark"			"192 0 72 255"
 		"TeamColorBlue"				"0 160 255 255"
 		"TeamColorBlueDark"			"0 128 192 255"
+		"TeamColorRedDarker"		"128 0 56 255"
+		"TeamColorBlueDarker"		"0 96 128 255"
 		"TeamColorSpec"				"128 128 192 255"
 		"TeamColorSpecDark"			"64 64 128 255"
 

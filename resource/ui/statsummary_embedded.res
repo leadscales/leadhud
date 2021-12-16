@@ -54,6 +54,7 @@
 		"textAlignment"		"center"
 		"font"				"FontRegular20"
 		"labelText"			"LeadHUD v0.5"
+		"fgcolor_override"	"AccentLight"
 	}
 
 	"NoticeLabel2"
@@ -61,11 +62,11 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"NoticeLabel2"
 		"xpos"				"cs-0.5"
-		"ypos"				"275"
+		"ypos"				"280"
 		"wide"				"f0"
 		"tall"				"50"
 		"textAlignment"		"center"
-		"font"				"FontRegular10"
+		"font"				"FontRegular12"
 		"fgcolor_override"	"GuiTextColorMedium"
 		"labelText"			"LeadHUD is in active development! Some things may be broken and some elements may be unchanged."
 	}
@@ -75,11 +76,11 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"NoticeLabel3"
 		"xpos"				"cs-0.5"
-		"ypos"				"285"
+		"ypos"				"295"
 		"wide"				"f0"
 		"tall"				"50"
 		"textAlignment"		"center"
-		"font"				"FontRegular10"
+		"font"				"FontRegular12"
 		"fgcolor_override"	"GuiTextColorMedium"
 		"labelText"			"Please check the official LeadHUD Github repo regularly for updates and bugfixes."
 	}

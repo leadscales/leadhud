@@ -650,7 +650,7 @@
 			"actionsignallevel"			"2"
 			"RoundedCorners"			"0"
 			"textinsetx"				"0"
-			"textinsety"				"7"
+			"textinsety"				"6"
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
 
@@ -686,7 +686,7 @@
 			"actionsignallevel"			"2"
 			"roundedcorners"			"0"
 			"textinsetx"				"0"
-			"textinsety"				"7"
+			"textinsety"				"6"
 			"sound_depressed"			"UI/buttonclick.wav"
 			"sound_released"			"UI/buttonclickrelease.wav"
 

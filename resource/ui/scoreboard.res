@@ -6,7 +6,7 @@
 // 32p is for servers that have an increased maxiumum player count.
 // Remove the second hashtag from the one you want to use.
 
-#base "#scoreboard-1080p-32p.res"
-#base "#scoreboard-1440p-32p.res"
 #base "scoreboard-1080p-24p.res"
+#base "#scoreboard-1080p-32p.res"
 #base "#scoreboard-1440p-24p.res"
+#base "#scoreboard-1440p-32p.res"

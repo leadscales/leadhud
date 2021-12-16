@@ -85,30 +85,6 @@
 		"labelText"			"Type streamer_mode in the console to disable streamer mode and see player scores!"
 	}
 
-	"TeamSplitter"
-	{
-		"ControlName"		"CTFImagePanel"
-		"fieldName"			"TeamSplitter"
-		"xpos"				"0"
-		"ypos"				"r66"
-		"zpos"				"500"		
-		"wide"				"f0"
-		"wide_minmode"		"0"
-		"tall"				"1"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"replay/thumbnails/neutralbg_light"
-		"teambg_2"			"replay/thumbnails/redbg"
-		"teambg_2_lodef"	"replay/thumbnails/redbg"
-		"teambg_3"			"replay/thumbnails/bluebg"
-		"teambg_3_lodef"	"replay/thumbnails/bluebg"
-
-		if_mvm
-		{
-			"visible"			"0"
-		}
-	}
-
 	"TeamSplitter2"
 	{
 		"ControlName"		"CTFImagePanel"
@@ -517,7 +493,7 @@
 		"wide"				"p0.5"
 		"wide_minmode"		"0"
 		"tall"				"15"
-		"visible"			"1"
+		"visible"			"0"
 		"enabled"			"1"
 		"bgcolor_override"	"GuiTransparentMedium"
 		"PaintBackgroundType"	"0"
@@ -563,7 +539,7 @@
 		"wide"				"p0.5"
 		"wide_minmode"		"0"
 		"tall"				"15"
-		"visible"			"1"
+		"visible"			"0"
 		"enabled"			"1"
 		"bgcolor_override"	"GuiTransparentMedium"
 		"PaintBackgroundType"	"0"

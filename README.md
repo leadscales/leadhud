@@ -1,5 +1,10 @@
 ![Banner](./banner.png)
 
+# NOTICE: DISCONTINUED
+![Notice](./discontinued.png)
+
+## LeadHUD is no longer in active development. Please use OneHUD or wait for this HUD's replacement to finish.
+
 # About
 
 LeadHUD is a modern, functional HUD for Team Fortress 2, taking inspiration from modern FPS games.

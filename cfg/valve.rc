@@ -26,3 +26,6 @@ alias "streamer_mode" "toggle cl_hud_minmode; toggle mat_antialias 0 1; wait 500
 
 // Startup Sound
 wait 100; play ui/leadhud.wav
+
+// Notice
+alias "lh_notice" "clear; showconsole; echo Development of this HUD has been discontinued in favor of a newer one that will be released soon.; echo This HUD was created as a head-first dive into the process of HUD development and such should not be used.; echo Please use a different HUD for the time being, and await for the new one that will replace this one.; echo To remove this notice, delete the notice.res file in the HUD root directory.; echo Thank you."
